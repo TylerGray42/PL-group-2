@@ -88,6 +88,8 @@ with open("log.txt", "r") as f:
 
 
 dates = sorted(operation_count.keys())  # Сортировка дат
+# dates = [10, 11, 13, 14, 27, 28, 34]
+
 actions = list(actions.keys())  # Список всех типов действий
 
 # Инициализация словаря для хранения данных по каждой операции
@@ -118,13 +120,13 @@ action_names = {
 
 # Отрисовка линии для каждой операции
 for action, counts in action_data.items():
-    plt.plot(dates, counts, marker='o', label=action_names.get(action))
+    plt.plot(range(len(dates)), counts, marker='o', label=action_names.get(action))
 
 # Настройки графика
 plt.title('Количество действий за каждый день')
 plt.xlabel('Дата')
 plt.ylabel('Количество действий')
-plt.xticks(range(47), rotation=45)
+plt.xticks(range(len(dates)), labels=list(map(str, dates)), rotation=45)
 plt.legend(title="Типы действий")
 plt.grid(True)
 
