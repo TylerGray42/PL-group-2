@@ -1,0 +1,31 @@
+version: "3.8"
+
+services:
+  influxdb:
+    image: influxdb:1.8
+    container_name: influxdb-group-2
+    ports:
+      - "${INFLUXDB_PORT}:8086"
+    volumes:
+      - "influxdb_data:/var/lib/influxdb"
+
+  telegraf:
+    image: telegraf:latest
+    container_name: telegraf-group-2
+    volumes:
+      - ./telegraf.conf:/etc/telegraf/telegraf.conf
+    depends_on:
+      - influxdb
+
+  grafana:
+    image: grafana/grafana
+    container_name: grafana-group-2
+    restart: unless-stopped
+    ports:
+      - "${GRAFANA_PORT}:3000"
+    volumes:
+      - "grafana_data:/var/lib/grafana"
+
+volumes:
+  grafana_data: {}
+  influxdb_data: {}
