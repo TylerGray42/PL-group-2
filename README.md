@@ -12,4 +12,4 @@
 
 - `parser/` - парсер логов программы Boomq. Подробнее см. `parser/README.md`.
 - `monitoring/` - конфигурация системы мониторинга для сервера с использованием Telegraf, InfluxDB и Grafana в Docker. Подробнее см. `monitoring/README.md`.
-- `Mock/` - заглука для использование программой Boomq. Подробнее см. `Mock/README.md`.
+- `Mock/` - заглушка для использования программой Boomq. Подробнее см. `Mock/README.md`.
