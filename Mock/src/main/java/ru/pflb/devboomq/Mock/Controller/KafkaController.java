@@ -21,11 +21,14 @@ public class KafkaController {
     @Value("${timeout}")
     String timeout;
 
+    @Value("${kafka.topic}")
+    private String kafkaTopic;
+
     private final List<String> messages = new ArrayList<>();
 
-    // Слушатель сообщений из Kafka на тему "group2" с идентификатором группы "group_id".
+    // Слушатель сообщений из Kafka на динамически задаваемую тему с идентификатором группы "group_id".
     // Сообщение добавляется в список messages.
-    @KafkaListener(topics = "group2", groupId = "group_id")
+    @KafkaListener(topics = "#{'${kafka.topic}'}", groupId = "group_id")
     public void listen(String message) {
         synchronized (messages) {
             messages.add(message);
@@ -39,7 +42,7 @@ public class KafkaController {
         consumes = MediaType.APPLICATION_JSON_VALUE
     )
     public String sendMessage(@RequestBody RequestDTO requestDTO) {
-        kafkaTemplate.send("group2", requestDTO.getMessage());
+        kafkaTemplate.send(kafkaTopic, requestDTO.getMessage());
         return "Сообщение отправлено!\n";
     }
 
