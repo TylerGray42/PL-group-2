@@ -1,0 +1,13 @@
+[t35]
+FileName1=t35_18268.json
+URL1=https://dev-boomq.pflb.ru/test-srv/test/18268
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+FileName2=t35_time.0a39ea6cf097a189ea08f0e8e59fe026.svg
+URL2=https://dev-boomq.pflb.ru/static/media/time.0a39ea6cf097a189ea08f0e8e59fe026.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+GET / HTTP/1.1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+User-Agent: Vivaldi/6.8.3381.57 WinSparkle/0.5.2 (Win64)
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: dev-boomq.pflb.ru
+

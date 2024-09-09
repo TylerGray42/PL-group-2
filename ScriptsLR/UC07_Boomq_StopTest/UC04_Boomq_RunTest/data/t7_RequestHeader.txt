@@ -1,0 +1,16 @@
+GET https://worldtimeapi.org/api/ip HTTP/1.1
+sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128"
+Accept: application/json, text/plain, */*
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+sec-ch-ua-platform: "Windows"
+Origin: https://dev-boomq.pflb.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dev-boomq.pflb.ru/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Host: worldtimeapi.org
+Connection: Keep-Alive
+

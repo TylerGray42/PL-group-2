@@ -1,0 +1,11 @@
+[t56]
+FileName1=t56_25863.json
+URL1=https://dev-boomq.pflb.ru/project-srv/project/25337/version/25863
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_56.xml
+RequestHeaderFile=t56_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t56_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

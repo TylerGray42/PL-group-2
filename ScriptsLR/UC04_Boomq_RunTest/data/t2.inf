@@ -1,0 +1,11 @@
+[t2]
+FileName1=t2.json
+URL1=https://static.edge.microsoftapp.net/default/cloud_config_observers.json
+Total=1
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_2.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

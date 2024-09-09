@@ -1,0 +1,3 @@
+"{"events":[{"name":"frontend_boot_first_paint_time_seconds","value":1.215},{"name":"frontend_b"
+"oot_load_time_seconds","value":23.444},{"name":"frontend_boot_js_done_time_seconds","value":2."
+"131},{"name":"frontend_boot_css_time_seconds","value":0.667}]}"

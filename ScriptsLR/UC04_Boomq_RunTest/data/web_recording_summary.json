@@ -1,0 +1,1880 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-plugin-id",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-panel-id",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-grafana-org-id",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-datasource-uid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-dashboard-uid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-client-date",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-version",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-key",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-extensions",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/svg+xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff2"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 154,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "авг-25-2024",
+    "RecordingDuration": 362000,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1724621243,
+    "RecordingType": "Proxy",
+    "TotalBytesReceived": 15081649,
+    "TotalBytesSent": 291842,
+    "TotalRequests": 154,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "worldtimeapi.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "213.188.196.246",
+          "IncludeInScript": true,
+          "Name": "worldtimeapi.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 616,
+              "HttpStatus": 200,
+              "Size": 233,
+              "URL": "https://worldtimeapi.org/api/ip"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "pflb.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "77.50.236.214",
+          "IncludeInScript": true,
+          "Name": "dev-boomq.pflb.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 502,
+              "HttpStatus": 301,
+              "Size": 169,
+              "URL": "http://dev-boomq.pflb.ru/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "77.50.236.214",
+          "IncludeInScript": true,
+          "Name": "dev-boomq.pflb.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 1360,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 1356,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 1352,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 1348,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1343,
+              "HttpStatus": 200,
+              "Size": 1129,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q123"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1338,
+              "HttpStatus": 200,
+              "Size": 1859,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q122"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1333,
+              "HttpStatus": 200,
+              "Size": 1031,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q120"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1328,
+              "HttpStatus": 200,
+              "Size": 531,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q118"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1323,
+              "HttpStatus": 200,
+              "Size": 524,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q119"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1318,
+              "HttpStatus": 200,
+              "Size": 2038,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q121"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1313,
+              "HttpStatus": 200,
+              "Size": 538,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q117"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1308,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q116"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1303,
+              "HttpStatus": 200,
+              "Size": 340,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ108"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1298,
+              "HttpStatus": 200,
+              "Size": 617,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ107"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1293,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/annotations?from=1724675670611&to=1724679390611&limit=100&matchAny=false&dashboardUID=ca51acaf-9803-4ad8-b507-923b152a1ca9"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1288,
+              "HttpStatus": 200,
+              "Size": 554,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1283,
+              "HttpStatus": 200,
+              "Size": 1649,
+              "URL": "https://dev-boomq.pflb.ru/timescale-srv/testMetric?testId=18268&testStartDate=2024-08-26T12:34:30.611Z&testEndDate=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1278,
+              "HttpStatus": 200,
+              "Size": 503,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1273,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1268,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1263,
+              "HttpStatus": 200,
+              "Size": 396,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1258,
+              "HttpStatus": 200,
+              "Size": 1044,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test/18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1253,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1248,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1243,
+              "HttpStatus": 200,
+              "Size": 503,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1238,
+              "HttpStatus": 200,
+              "Size": 554,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 1233,
+              "HttpStatus": 200,
+              "Size": 4,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/frontend-metrics"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1228,
+              "HttpStatus": 200,
+              "Size": 1113,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q115"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1223,
+              "HttpStatus": 200,
+              "Size": 1843,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q114"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1218,
+              "HttpStatus": 200,
+              "Size": 2004,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q113"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1213,
+              "HttpStatus": 200,
+              "Size": 1031,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q112"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1208,
+              "HttpStatus": 200,
+              "Size": 524,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q111"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1203,
+              "HttpStatus": 200,
+              "Size": 530,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q110"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1198,
+              "HttpStatus": 200,
+              "Size": 538,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q109"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1193,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q108"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1188,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/annotations?from=1724675670611&to=1724679390611&limit=100&matchAny=false&dashboardUID=ca51acaf-9803-4ad8-b507-923b152a1ca9"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1183,
+              "HttpStatus": 200,
+              "Size": 617,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ104"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1178,
+              "HttpStatus": 200,
+              "Size": 340,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ105"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1173,
+              "HttpStatus": 200,
+              "Size": 503,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1168,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1163,
+              "HttpStatus": 200,
+              "Size": 554,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1158,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1153,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1148,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1143,
+              "HttpStatus": 200,
+              "Size": 503,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1138,
+              "HttpStatus": 200,
+              "Size": 396,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1133,
+              "HttpStatus": 200,
+              "Size": 554,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 1129,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1124,
+              "HttpStatus": 200,
+              "Size": 1097,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q107"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1119,
+              "HttpStatus": 200,
+              "Size": 1827,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q106"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1109,
+              "HttpStatus": 200,
+              "Size": 1988,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q105"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1104,
+              "HttpStatus": 200,
+              "Size": 1031,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q104"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1099,
+              "HttpStatus": 200,
+              "Size": 524,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q103"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1094,
+              "HttpStatus": 200,
+              "Size": 530,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q102"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1089,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/annotations?from=1724675670611&to=1724679390611&limit=100&matchAny=false&dashboardUID=ca51acaf-9803-4ad8-b507-923b152a1ca9"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 1084,
+              "HttpStatus": 200,
+              "Size": 715,
+              "URL": "https://dev-boomq.pflb.ru/grafana/avatar/d60e3d7f0a3074f7f30c517366d6c0f1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1079,
+              "HttpStatus": 200,
+              "Size": 538,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q101"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1074,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q100"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1069,
+              "HttpStatus": 200,
+              "Size": 273,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/search?limit=5&type=dash-db&dashboardUID=ca51acaf-9803-4ad8-b507-923b152a1ca9"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1064,
+              "HttpStatus": 200,
+              "Size": 94,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/user/orgs"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1059,
+              "HttpStatus": 200,
+              "Size": 340,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ101"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 1054,
+              "HttpStatus": 200,
+              "Size": 617,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ100"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 1049,
+              "HttpStatus": 200,
+              "Size": 8691,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/grafanaPlugin.aee8494db4c836362107.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1044,
+              "HttpStatus": 200,
+              "Size": 503,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1039,
+              "HttpStatus": 200,
+              "Size": 529,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1034,
+              "HttpStatus": 200,
+              "Size": 554,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1029,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1024,
+              "HttpStatus": 200,
+              "Size": 396,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/ds/query"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 1019,
+              "HttpStatus": 200,
+              "Size": 575457,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/5216.565cbd1aa042f890edf2.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 1014,
+              "HttpStatus": 200,
+              "Size": 19125,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/postgresPlugin.5dbf50fe15160919cf74.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 1009,
+              "HttpStatus": 200,
+              "Size": 79570,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/dashboards/uid/ca51acaf-9803-4ad8-b507-923b152a1ca9"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 1004,
+              "HttpStatus": 200,
+              "Size": 109984,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/DashboardPage.47d249f8c940b079c4b5.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 999,
+              "HttpStatus": 200,
+              "Size": 9898,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/3069.c3a514d280a9f89eecde.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 15,
+              "EventId": 994,
+              "HttpStatus": 200,
+              "Size": 11083,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/3312.48d5fac3b02144f52e9a.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 0,
+              "EventId": 989,
+              "HttpStatus": 200,
+              "Size": 1118,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/img/fav32.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 0,
+              "EventId": 984,
+              "HttpStatus": 200,
+              "Size": 77160,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/fonts/fontawesome-webfont.woff2?v=4.7.0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 15,
+              "EventId": 979,
+              "HttpStatus": 200,
+              "Size": 17869,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/1863.dad1afc1743ccbc4ec18.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 974,
+              "HttpStatus": 200,
+              "Size": 69141,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/3258.e6e94bbe4d45fc9db086.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 969,
+              "HttpStatus": 200,
+              "Size": 68559,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/9734.6ba2e09bcb9d7c025793.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 964,
+              "HttpStatus": 200,
+              "Size": 19664,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/9427.1e65164569048326187c.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 959,
+              "HttpStatus": 200,
+              "Size": 39497,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/53.59d9e34c172df910b888.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 954,
+              "HttpStatus": 200,
+              "Size": 37400,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/7307.bfc948b550f554e75772.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 949,
+              "HttpStatus": 200,
+              "Size": 34850,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/8695.c23c9961ab344f38b174.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 945,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 940,
+              "HttpStatus": 200,
+              "Size": 1265,
+              "URL": "https://dev-boomq.pflb.ru/timescale-srv/testMetric?testId=18268&testStartDate=2024-08-26T12:34:30.611Z&testEndDate=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 935,
+              "HttpStatus": 200,
+              "Size": 1044,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test/18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 930,
+              "HttpStatus": 200,
+              "Size": 4,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/frontend-metrics"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 926,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 922,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 918,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 914,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 909,
+              "HttpStatus": 200,
+              "Size": 72812,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/AngularApp.cd93fabea0d7a3dbc811.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 904,
+              "HttpStatus": 200,
+              "Size": 188975,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/1189.846540cbca3eb55c18a1.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 899,
+              "HttpStatus": 200,
+              "Size": 125025,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/3633.acef4a1394f4c10cf087.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 895,
+              "HttpStatus": 400,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/grafana/api/live/ws"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 15,
+              "EventId": 890,
+              "HttpStatus": 200,
+              "Size": 20212,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/7424.afad9d5bcb701f31d890.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 885,
+              "HttpStatus": 200,
+              "Size": 2842271,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/226.e8901bdbabf874bc7825.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 0,
+              "EventId": 880,
+              "HttpStatus": 200,
+              "Size": 5690,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/img/grafana_icon.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 875,
+              "HttpStatus": 200,
+              "Size": 4513950,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/1486.9f5c58b5413b0650af69.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 865,
+              "HttpStatus": 200,
+              "Size": 1019820,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/app.5134ec4fafe46667d3cf.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 16,
+              "EventId": 860,
+              "HttpStatus": 200,
+              "Size": 37056,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 855,
+              "HttpStatus": 200,
+              "Size": 403121,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/147.73fef960675c84aa9a84.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 0,
+              "EventId": 850,
+              "HttpStatus": 200,
+              "Size": 215477,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/grafana.dark.886efb710af4d17a895d.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 845,
+              "HttpStatus": 200,
+              "Size": 20506,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/1537.caf8c5d1430033307ef5.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 840,
+              "HttpStatus": 200,
+              "Size": 13191,
+              "URL": "https://dev-boomq.pflb.ru/grafana/public/build/runtime.592ab1f875d183fcac07.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 835,
+              "HttpStatus": 200,
+              "Size": 37964,
+              "URL": "https://dev-boomq.pflb.ru/grafana/d/ca51acaf-9803-4ad8-b507-923b152a1ca9/common-dashboard-tdb-13?from=1724675670611&to=1724679390611&refresh=5s&var-testId=18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 830,
+              "HttpStatus": 200,
+              "Size": 1013,
+              "URL": "https://dev-boomq.pflb.ru/timescale-srv/testMetric?testId=18268&testStartDate=2024-08-26T12:34:30.611Z&testEndDate=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 825,
+              "HttpStatus": 200,
+              "Size": 1044,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test/18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 815,
+              "HttpStatus": 200,
+              "Size": 761,
+              "URL": "https://dev-boomq.pflb.ru/timescale-srv/testMetric?testId=18268&testStartDate=2024-08-26T12:34:30.611Z&testEndDate=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 810,
+              "HttpStatus": 200,
+              "Size": 1044,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test/18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 32,
+              "EventId": 805,
+              "HttpStatus": 404,
+              "Size": 89,
+              "URL": "https://dev-boomq.pflb.ru/grafana-srv/auth?settingsId=6&testStartTime=2024-08-26T12:34:30.611Z&testEndTime=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 800,
+              "HttpStatus": 200,
+              "Size": 153,
+              "URL": "https://dev-boomq.pflb.ru/grafana-srv/auth?testId=18268&testStartTime=2024-08-26T12:34:30.611Z&testEndTime=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 795,
+              "HttpStatus": 200,
+              "Size": 509,
+              "URL": "https://dev-boomq.pflb.ru/timescale-srv/testMetric?testId=18268&testStartDate=2024-08-26T12:34:30.611Z&testEndDate=2024-08-26T13:36:30.611Z"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 0,
+              "EventId": 790,
+              "HttpStatus": 200,
+              "Size": 2405,
+              "URL": "https://dev-boomq.pflb.ru/static/media/time.0a39ea6cf097a189ea08f0e8e59fe026.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 785,
+              "HttpStatus": 200,
+              "Size": 1044,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test/18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 0,
+              "EventId": 780,
+              "HttpStatus": 200,
+              "Size": 5979,
+              "URL": "https://dev-boomq.pflb.ru/static/media/message.09d91ef8f7769e72000af31b00da82e2.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 0,
+              "EventId": 775,
+              "HttpStatus": 200,
+              "Size": 2569,
+              "URL": "https://dev-boomq.pflb.ru/static/media/load.287cb7234e668cd66173833db04886bf.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 770,
+              "HttpStatus": 200,
+              "Size": 1105,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project/15005"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 765,
+              "HttpStatus": 200,
+              "Size": 24042,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test?sort=createDate,desc&page=0&size=7"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 760,
+              "HttpStatus": 200,
+              "Size": 1362,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test?sort=createDate,desc&displayState=INITIALIZATION,WAITING,RUNNING,TEST_STOPPING"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 755,
+              "HttpStatus": 200,
+              "Size": 199,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/user"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 750,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test/label?query="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 745,
+              "HttpStatus": 200,
+              "Size": 8998,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project?sort=lastModified,desc&size=999"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 740,
+              "HttpStatus": 201,
+              "Size": 872,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 15,
+              "EventId": 725,
+              "HttpStatus": 200,
+              "Size": 5741,
+              "URL": "https://dev-boomq.pflb.ru/minio/boomq/boomq/teams/13/projects/15005/v_15043.yaml?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIOSFODNN7EXAMPLE/20240826/us-east-1/s3/aws4_request&X-Amz-Date=20240826T123301Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf1639b41549a35345282fd0a41770fc9f6884edd46e0a4ef9f28b25f6da5245"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 720,
+              "HttpStatus": 200,
+              "Size": 335,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project/15005/version/15043/downloadLink"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 715,
+              "HttpStatus": 200,
+              "Size": 282,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project/15005/version/15043"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 710,
+              "HttpStatus": 200,
+              "Size": 1105,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project/15005"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 705,
+              "HttpStatus": 200,
+              "Size": 6210,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project?sort=lastModified,desc&page=0&size=9"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 700,
+              "HttpStatus": 200,
+              "Size": 38,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project/label?query="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 15,
+              "EventId": 695,
+              "HttpStatus": 200,
+              "Size": 4045,
+              "URL": "https://dev-boomq.pflb.ru/static/media/en.b1acfc6b06bfe6e29bfbfc06d09d8177.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 675,
+              "HttpStatus": 200,
+              "Size": 268,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/team/13"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 670,
+              "HttpStatus": 200,
+              "Size": 154,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/user"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 665,
+              "HttpStatus": 200,
+              "Size": 531,
+              "URL": "https://dev-boomq.pflb.ru/test-runner-srv/testRunner?sort=id,desc"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 660,
+              "HttpStatus": 200,
+              "Size": 305,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/teamMember/teamContext?teamId=13"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 655,
+              "HttpStatus": 200,
+              "Size": 582,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/team?size=2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 645,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/identityProvider"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 640,
+              "HttpStatus": 200,
+              "Size": 154,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/user"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 635,
+              "HttpStatus": 200,
+              "Size": 66848,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/modelSchema"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 0,
+              "EventId": 630,
+              "HttpStatus": 200,
+              "Size": 9512,
+              "URL": "https://dev-boomq.pflb.ru/static/media/logo_white.0cea18e85c9a77e55bb91f7a1a608eea.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 625,
+              "HttpStatus": 200,
+              "Size": 285,
+              "URL": "https://dev-boomq.pflb.ru/config.json"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 0,
+              "EventId": 621,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/login"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 0,
+              "EventId": 577,
+              "HttpStatus": 200,
+              "Size": 1016,
+              "URL": "https://dev-boomq.pflb.ru/favicon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff",
+              "DownloadTime": 0,
+              "EventId": 567,
+              "HttpStatus": 200,
+              "Size": 138600,
+              "URL": "https://dev-boomq.pflb.ru/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff",
+              "DownloadTime": 16,
+              "EventId": 562,
+              "HttpStatus": 200,
+              "Size": 138516,
+              "URL": "https://dev-boomq.pflb.ru/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff",
+              "DownloadTime": 16,
+              "EventId": 557,
+              "HttpStatus": 200,
+              "Size": 138900,
+              "URL": "https://dev-boomq.pflb.ru/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 15,
+              "EventId": 552,
+              "HttpStatus": 200,
+              "Size": 8365,
+              "URL": "https://dev-boomq.pflb.ru/static/media/logo.f5ae2890e77693e018920d4ad41c643c.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff",
+              "DownloadTime": 16,
+              "EventId": 547,
+              "HttpStatus": 200,
+              "Size": 138232,
+              "URL": "https://dev-boomq.pflb.ru/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 0,
+              "EventId": 542,
+              "HttpStatus": 200,
+              "Size": 1861,
+              "URL": "https://dev-boomq.pflb.ru/static/media/loading.b59fa25397e07d75b9ac55ace151e625.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 527,
+              "HttpStatus": 200,
+              "Size": 3435354,
+              "URL": "https://dev-boomq.pflb.ru/static/js/main.cddf1824.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 0,
+              "EventId": 512,
+              "HttpStatus": 200,
+              "Size": 189344,
+              "URL": "https://dev-boomq.pflb.ru/static/css/main.64a4c65b.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 507,
+              "HttpStatus": 200,
+              "Size": 1489,
+              "URL": "https://dev-boomq.pflb.ru/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "51.137.3.145",
+          "IncludeInScript": false,
+          "Name": "nav-edge.smartscreen.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 870,
+              "HttpStatus": 200,
+              "Size": 1115,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 522,
+              "HttpStatus": 200,
+              "Size": 798,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 498,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.239",
+          "IncludeInScript": false,
+          "Name": "edge.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 1114,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/-1589490648188453874"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 16,
+              "EventId": 820,
+              "HttpStatus": 200,
+              "Size": 49,
+              "URL": "https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates:fetch?req=ChcKBm1zZWRnZRINMTI4LjAuMjczOS40MhobCAEQCBoNMTcyNDY0OTY1NDE0MSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 735,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/-9037826917080962554"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 730,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/1153352779486944752"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 690,
+              "HttpStatus": 200,
+              "Size": 178,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 685,
+              "HttpStatus": 200,
+              "Size": 181,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 680,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/-4776165001487966812"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 650,
+              "HttpStatus": 200,
+              "Size": 181,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 611,
+              "HttpStatus": 200,
+              "Size": 1892,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:ugGDTue8HuB9AtvLKZamRMzpkE60Whf2IVBOCwQyNP8&cup2hreq=a7549acaae45b10552e8b689e15d94771cebb6ab937fc1844a8f97e1b2b07247"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 597,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 16,
+              "EventId": 582,
+              "HttpStatus": 200,
+              "Size": 413,
+              "URL": "https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=128.0.2739.42&lang=ru&acceptformat=crx3,puff&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.2.1%26installedby%3Dother%26uc"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 572,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/8066415539964960608"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 517,
+              "HttpStatus": 200,
+              "Size": 4028,
+              "URL": "https://edge.microsoft.com/identity/api/v3/msa"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 493,
+              "HttpStatus": 200,
+              "Size": 1608,
+              "URL": "https://edge.microsoft.com/serviceexperimentation/v3/?osname=win&channel=stable&osver=10.0.22631&devicefamily=desktop&installdate=1680095641&clientversion=128.0.2739.42&experimentationmode=2&scpguard=0&scpfull=0&scpver=0"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "96.16.49.214",
+          "IncludeInScript": false,
+          "Name": "www.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 601,
+              "HttpStatus": 200,
+              "Size": 81,
+              "URL": "https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 592,
+              "HttpStatus": 200,
+              "Size": 28,
+              "URL": "https://www.bing.com/api/shopping/v1/user/shoppingsettings"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 587,
+              "HttpStatus": 200,
+              "Size": 28,
+              "URL": "https://www.bing.com/api/shopping/v1/user/shoppingsettings"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 537,
+              "HttpStatus": 200,
+              "Size": 635571,
+              "URL": "https://www.bing.com/bloomfilterfiles/ExpandedDomainsFilterGlobal.json"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 532,
+              "HttpStatus": 200,
+              "Size": 81,
+              "URL": "https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "azureedge.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.246.53",
+          "IncludeInScript": false,
+          "Name": "edge-consumer-static.azureedge.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 606,
+              "HttpStatus": 200,
+              "Size": 101,
+              "URL": "https://edge-consumer-static.azureedge.net/mouse-gesture/config.json"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

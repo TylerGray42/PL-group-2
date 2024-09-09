@@ -1,0 +1,6 @@
+"{\"name\":\"untitled_profile_15:25\",\"projectId\":15045,\"chartProfileList\":[{\"slaTypeList\""
+":[{\"fromDate\":0,\"restrictionType\":\"AVERAGE\",\"targetType\":\"TEST\",\"toDate\":30,\"type"
+"\":\"GENERAL_SLA_TYPE\"}],\"orderInReport\":0}],\"tableProfileList\":[{\"tableId\":null,\"slaT"
+"ypeList\":[{\"fromDate\":0,\"restrictionType\":\"AVERAGE\",\"targetType\":\"TEST\",\"toDate\":"
+"30,\"type\":\"GENERAL_SLA_TYPE\"}],\"valueType\":\"VALUE\",\"orderInReport\":1}],\"testFilterE"
+"xpressionList\":[{\"type\":\"TEST_ID_EXPRESSION\",\"testIdList\":[18389,18378]}]}"

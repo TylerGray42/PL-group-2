@@ -1,0 +1,21 @@
+POST https://dev-boomq.pflb.ru/grafana/api/ds/query HTTP/1.1
+sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128"
+x-plugin-id: postgres
+x-grafana-org-id: 14
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+x-datasource-uid: bc7e142d-d1db-4a7e-9a59-f922fbe1d91b
+sec-ch-ua-platform: "Windows"
+Origin: https://dev-boomq.pflb.ru
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dev-boomq.pflb.ru/grafana/d/ca51acaf-9803-4ad8-b507-923b152a1ca9/common-dashboard-tdb-13?from=1724675670611&to=1724679390611&refresh=5s&var-testId=18268&orgId=14
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Cookie: grafana_session_expiry=1724676292; grafana_session=eb01bc73068377d013fb2153aa1044d7; boomq_auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc19ub3RpZmljYXRlZCI6dHJ1ZSwidXNlcl9pZCI6MTg3NSwidXNlcl9uYW1lIjoia29fbGVzeWFAbWFpbC5ydSIsInNjb3BlIjpbInRydXN0IiwicmVhZCIsIndyaXRlIl0sInVzZXJfbGFuZ3VhZ2UiOiJSVSIsImV4cCI6MTcyNDcxODcxNywiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImp0aSI6Ijg1MWFjMTQ2LTg2OTgtNGFjMi1hMjkwLTY0OWExNmE0NWE3MSIsImNsaWVudF9pZCI6ImNsaWVudCJ9.snOIAM1Z8wMuUlYQAuhaqoAca5-uOemCDawHUlmXqJKkoNoVo8gRnd_OXmH2prWw3EJSjkJKcLTVlkhhZqSZ6gv6sg6QuVuAHHrdYEjReGgU1kn4Kw0eAIeOub6oAUueU5ep6J4V_u41jy839RCJ1kPjXHtiAUKVm6IGVHGSFAgvZkvjfr8OkeaGKmyTjVLnL5qAAHmCGrtWuNIhEtxlyH3-zQ7MpDa3CCpiLXkHupe3pV2GZhaGcokx9AO3KRA6PjiPhbUesZEOiD58pLaFbeD54AgxwHHiIUuGq7WQIkVoBLQnhdN1qq2P18ypOQ-3f5WzjgjKeGLWQWN6DbpIig
+Host: dev-boomq.pflb.ru
+Content-Length: 352
+

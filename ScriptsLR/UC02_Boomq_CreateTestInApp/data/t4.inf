@@ -1,0 +1,11 @@
+[t4]
+FileName1=t4.json
+URL1=https://edge.microsoft.com/serviceexperimentation/v3/?osname=win&channel=stable&osver=10.0.22631&devicefamily=desktop&installdate=1622974563&clientversion=128.0.2739.42&experimentationmode=2&scpguard=0&scpfull=0&scpver=0
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

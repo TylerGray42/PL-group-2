@@ -1,0 +1,20 @@
+[t18]
+FileName2=t4_2_en.UNK
+RawStepEndTime=1725718335838
+FileName4=t1_0_main.css
+RequestBodyFile=t18_RequestBody.txt
+RawStepName=previewTable
+ContentType=application/json
+URL1=https://dev-boomq.pflb.ru/report-srv/report/previewTable
+URL2=https://dev-boomq.pflb.ru/static/media/en.b1acfc6b06bfe6e29bfbfc06d09d8177.svg
+URL3=https://dev-boomq.pflb.ru/static/js/main.cddf1824.js
+ResponseHeaderFile=t18_ResponseHeader.txt
+URL4=https://dev-boomq.pflb.ru/static/css/main.64a4c65b.css
+SnapshotXmlFile=snapshot_15.xml
+RequestHeaderFile=t18_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1725718335705
+Total=4
+StepName=Custom Request: previewTable
+FileName1=t18.json
+FileName3=t1_1_main.UNK

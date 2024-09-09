@@ -1,0 +1,11 @@
+[t41]
+FileName1=t41_testMetric.json
+URL1=https://dev-boomq.pflb.ru/timescale-srv/testMetric?testId=18268&testStartDate=2024-08-26T12:34:30.611Z&testEndDate=2024-08-26T13:36:30.611Z
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_41.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

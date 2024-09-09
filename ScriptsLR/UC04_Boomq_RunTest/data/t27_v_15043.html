@@ -1,0 +1,197 @@
+boomqTestPlan:
+  configurationElements:
+  - type: "HTTP_COOKIE_MANAGER"
+    id: "0641871e-307d-4e34-9bf8-3b9ae8f5f6b5"
+    label: "Http cookie manager"
+    enabled: true
+    clearEachIteration: false
+    clearControlledByThreadGroup: false
+    cookiePolicy: "STANDARD"
+    userDefinedCookies: []
+  - type: "HTTP_HEADER_MANAGER"
+    id: "110044ec-abd1-42ff-8bca-90f2d8c1d1fb"
+    label: "Http header manager"
+    enabled: true
+    headers:
+      User-Agent: "Mozilla/5.0"
+  - type: "HTTP_REQUEST_DEFAULTS"
+    id: "af970efe-8ad9-468f-9739-3b841056b940"
+    label: "Http request defaults"
+    enabled: true
+    protocol: null
+    serverName: null
+    port: null
+    path: null
+    responseTimeout: 120000
+    connectTimeout: 60000
+    clientImplementation: null
+    contentEncoding: null
+    queryParameters: null
+    bodyParameters: null
+    body: null
+    proxyProperties: null
+    retrieveAllEmbeddedResources: null
+    useParallelDownloads: null
+    parallelDownloadsPoolSize: null
+    urlMustMatch: null
+    urlMustNotMatch: null
+    sourceAddress: null
+    saveResponseAsMd5Hash: null
+  urlOverwrites: null
+  threadGroups:
+  - type: "BOOMQ_STABLE_SCALABILITY"
+    id: "204d0bcb-486f-4342-af11-a71cb5fd8723"
+    label: "1 транзакция"
+    typeDisplayName: ""
+    enabled: true
+    threadGroupElements:
+    - type: "CONTROLLER"
+      id: "21c687a6-567b-4381-9b35-f487b3c64301"
+      label: "Transaction 1"
+      typeDisplayName: "Transaction Controller"
+      timerList: []
+      enabled: true
+      creationIndex: 1
+      individualProperties:
+        type: "TRANSACTION"
+        generateParentSampler: false
+        includeDurationOfAllElementsToGeneratedSampler: false
+      children:
+      - type: "SAMPLER"
+        id: "ae1ec5a2-0b97-42b5-8f84-577308ca3b11"
+        label: "www.advantageonlineshopping.com/#/"
+        typeDisplayName: "HTTP Request"
+        timerList: []
+        enabled: true
+        individualProperties:
+          type: "HTTP"
+          method: "GET"
+          protocol: "https"
+          serverName: "www.advantageonlineshopping.com"
+          port: ""
+          path: "/"
+          connectTimeout: null
+          responseTimeout: null
+          clientImplementation: null
+          contentEncoding: null
+          queryParameters: []
+          bodyParameters: []
+          headers: {}
+          body: ""
+          automaticallyRedirect: false
+          followRedirects: true
+          useKeepAlive: true
+          browserCompatibleHeaders: false
+          doMultipartPost: false
+          filesUpload: null
+          responsePreview: null
+          proxyProperties: null
+          retrieveAllEmbeddedResources: true
+          useParallelDownloads: null
+          parallelDownloadsPoolSize: null
+          urlMustMatch: null
+          urlMustNotMatch: null
+          sourceAddress: null
+          saveResponseAsMd5Hash: null
+        assertions: []
+        extractors: []
+    - type: "CONTROLLER"
+      id: "8c3e63f8-070e-449f-b69c-f890cd160eea"
+      label: "Transaction 2"
+      typeDisplayName: "Transaction Controller"
+      timerList: []
+      enabled: true
+      creationIndex: 2
+      individualProperties:
+        type: "TRANSACTION"
+        generateParentSampler: false
+        includeDurationOfAllElementsToGeneratedSampler: false
+      children:
+      - type: "SAMPLER"
+        id: "8e3106d1-0072-4fbd-afe0-0138ed68ca7f"
+        label: "www.ozon.ru/?__rr=1"
+        typeDisplayName: "HTTP Request"
+        timerList: []
+        enabled: true
+        individualProperties:
+          type: "HTTP"
+          method: "GET"
+          protocol: "https"
+          serverName: "www.ozon.ru"
+          port: ""
+          path: "/"
+          connectTimeout: null
+          responseTimeout: null
+          clientImplementation: null
+          contentEncoding: null
+          queryParameters:
+          - name: "__rr"
+            value: "1"
+            alwaysEncode: true
+            useEquals: true
+          bodyParameters: []
+          headers: {}
+          body: ""
+          automaticallyRedirect: false
+          followRedirects: true
+          useKeepAlive: true
+          browserCompatibleHeaders: false
+          doMultipartPost: false
+          filesUpload: null
+          responsePreview: null
+          proxyProperties: null
+          retrieveAllEmbeddedResources: true
+          useParallelDownloads: null
+          parallelDownloadsPoolSize: null
+          urlMustMatch: null
+          urlMustNotMatch: null
+          sourceAddress: null
+          saveResponseAsMd5Hash: null
+        assertions: []
+        extractors: []
+    boomqConfiguration:
+      resourceConfiguration:
+        testRunnerIds:
+        - 2
+        cloudTestRunLocationRequirements: null
+        entTestRunLocationRequirements: null
+        memoryMb: null
+        cpuShares: null
+      pacingConfiguration: null
+      loadProfilePercent: 100
+    loadProfile: null
+  timers:
+  - timerType: "CONSTANT"
+    id: "7eee0cd3-9e3b-444b-bce5-2e549179699b"
+    typeDisplayName: null
+    label: "boomq_timer_7eee0cd3-9e3b-444b-bce5-2e549179699b"
+    enabled: true
+    durationMs: 8000
+  loadProfileType: "PER_TEST"
+  loadProfile:
+    boomqProfileType: "STABLE"
+    stepCount: 1
+    usersPerStep: 1
+    stepLengthMs: 3600000
+    rampUpMs: 60000
+    rampDownMs: 60000
+    durationAddedOnLastStepMs: 0
+  runThreadGroupConsecutively: false
+  runTearDownAfterShutdown: true
+  functionalMode: false
+  classpath: null
+slaGroupList:
+- type: "GENERAL_TEST_SLA"
+  targetType: "TEST"
+  slaList:
+  - restrictionType: "AVERAGE"
+    fromDate: 0
+    toDate: 420
+    operation: "LESS_EQUALS"
+    value: 3.0
+    result: null
+    status: "NOT_COUNTED"
+resourceConfiguration: null
+supportingFiles: []
+supportingFilesV2: []
+importedJmxFileLocation: null

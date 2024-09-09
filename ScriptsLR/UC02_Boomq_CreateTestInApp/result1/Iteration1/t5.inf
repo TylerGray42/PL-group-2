@@ -1,0 +1,16 @@
+[t5]
+SnapshotXmlFile=snapshot_5.xml
+ContentType=application/json
+StepName=Url: identityProvider_2
+Total=2
+FileName1=t5.json
+FileName2=t1_0_main.css
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t5_ResponseHeader.txt
+RawStepEndTime=1725717953260
+RawStepName=identityProvider_2
+RequestBodyFile=t5_RequestBody.txt
+RawStepStartTime=1725717953197
+URL1=https://dev-boomq.pflb.ru/auth-srv/identityProvider
+URL2=https://dev-boomq.pflb.ru/static/css/main.64a4c65b.css

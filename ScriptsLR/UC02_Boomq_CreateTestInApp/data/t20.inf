@@ -1,0 +1,11 @@
+[t20]
+FileName1=t20_shoppingsettings.json
+URL1=https://www.bing.com/api/shopping/v1/user/shoppingsettings
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

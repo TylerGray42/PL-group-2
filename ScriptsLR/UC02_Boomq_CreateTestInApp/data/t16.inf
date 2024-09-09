@@ -1,0 +1,17 @@
+[t16]
+FileName1=t16_8066415539964960608.json
+URL1=https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/8066415539964960608
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+FileName2=t16_Montserrat-Bold.180ba33d8de7dcfe80a0.html
+URL2=https://dev-boomq.pflb.ru/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff
+FileName3=t16_Montserrat-SemiBold.197213592de7a2a62e06.html
+URL3=https://dev-boomq.pflb.ru/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff
+FileName4=t16_Montserrat-Regular.3db65dc4b858f0fed4fb.html
+URL4=https://dev-boomq.pflb.ru/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff
+[ProtocolInfo]
+ProtocolId=QTWeb

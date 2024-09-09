@@ -1,0 +1,3 @@
+"{\"projectId\":15045,\"chartProfileList\":[{\"slaTypeList\":[{\"fromDate\":0,\"restrictionType"
+"\":\"AVERAGE\",\"targetType\":\"TEST\",\"toDate\":30,\"type\":\"GENERAL_SLA_TYPE\"}]}],\"testF"
+"ilterExpressionList\":[{\"type\":\"TEST_ID_EXPRESSION\",\"testIdList\":[18389,18378]}]}"

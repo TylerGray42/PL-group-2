@@ -1,0 +1,4 @@
+"{"queries":[{"refId":"Anno","datasource":{"type":"postgres","uid":"bc7e142d-d1db-4a7e-9a59-f92"
+"2fbe1d91b"},"rawSql":"SELECT\n  start_date as time,\n  container_id,\n  test_id\nFROM\n  jmete"
+"r_metrics.container\nWHERE\n  $__timeFilter(\"start_date\")","format":"table","datasourceId":1"
+"3,"intervalMs":60000,"maxDataPoints":1528}],"from":"1724675670611","to":"1724679390611"}"

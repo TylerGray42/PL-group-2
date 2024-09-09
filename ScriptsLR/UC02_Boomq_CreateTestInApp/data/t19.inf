@@ -1,0 +1,13 @@
+[t19]
+FileName1=t19_shoppingsettings.json
+URL1=https://www.bing.com/api/shopping/v1/user/shoppingsettings
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_17.xml
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+FileName2=t19_favicon.png
+URL2=https://dev-boomq.pflb.ru/favicon.png
+[ProtocolInfo]
+ProtocolId=QTWeb

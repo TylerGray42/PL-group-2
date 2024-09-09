@@ -1,0 +1,13 @@
+[t12]
+SnapshotXmlFile=snapshot_9.xml
+ContentType=application/json
+StepName=Submit Data: project
+Total=1
+FileName1=t12.json
+RequestHeaderFile=t12_RequestHeader.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+RawStepEndTime=1725717980531
+RawStepName=project
+RequestBodyFile=t12_RequestBody.txt
+RawStepStartTime=1725717980406
+URL1=https://dev-boomq.pflb.ru/project-srv/project?testProjectName=TestFromJMX_14-06-20

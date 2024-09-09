@@ -1,0 +1,6 @@
+"{\"channelurl\":\"ecm:Tt8SQBqsOpGJDbhR4yxeA9TuqiL+mGeMLKoY5I2jqMLOMJEsLDLiF4TaoRPJWJvYO77xQi2W"
+"bgHVEWcyjw9wOwbkeB2NoTiXjH+jWcvlrrpkCFFXJp2beXHgXeAY0eFNcHQZjhfWlT54xNLdhXBeI5AIa5LYwTx8snOy2s"
+"vLb9kap+9TaWn7dnzjVTKMeQMq\",\"deviceId\":\"chr:lleMp6aJGZ2vRbMHqsGegw==\",\"publisherFilters\""
+":[{\"activityTypes\":[64,65,66,67,70,71,72,75,77,79,82,103,104,106,109,112,113,115],\"applicat"
+"ion\":\"edge.activity.windows.com\",\"notificationType\":\"notificationOnly\",\"platform\":\"h"
+"ost\"}]}"

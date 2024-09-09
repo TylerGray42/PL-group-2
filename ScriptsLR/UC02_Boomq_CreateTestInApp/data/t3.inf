@@ -1,0 +1,11 @@
+[t3]
+FileName1=t3_128.0.2739.json
+URL1=https://config.edge.skype.com/config/v1/Edge/128.0.2739.42?clientId=-3181880309565117548&agents=EdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfre=0&osarch=x86_64&osver=10.0.22631&wu=1&devicefamily=desktop&uma=1&sessionid=483&mngd=0&installdate=1622974563&edu=0&bphint=2&soobedate=1622974562&fg=1
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

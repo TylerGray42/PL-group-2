@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <item>
+      <sparkle:releaseNotesLink>https://update.vivaldi.com/update/1.0/relnotes/6.9.3447.37.html</sparkle:releaseNotesLink>
+      <sparkle:deltas>
+        <enclosure url="https://downloads.vivaldi.com/stable-auto/Vivaldi.6.8.3381.48-6.9.3447.37.x64.delta.7z.cab" sparkle:deltaFrom="6.8.3381.48" sparkle:version="6.9.3447.37"/>
+        <enclosure url="https://downloads.vivaldi.com/stable-auto/Vivaldi.6.8.3381.50-6.9.3447.37.x64.delta.7z.cab" sparkle:deltaFrom="6.8.3381.50" sparkle:version="6.9.3447.37"/>
+        <enclosure url="https://downloads.vivaldi.com/stable-auto/Vivaldi.6.8.3381.53-6.9.3447.37.x64.delta.7z.cab" sparkle:deltaFrom="6.8.3381.53" sparkle:version="6.9.3447.37"/>
+        <enclosure url="https://downloads.vivaldi.com/stable-auto/Vivaldi.6.8.3381.55-6.9.3447.37.x64.delta.7z.cab" sparkle:deltaFrom="6.8.3381.55" sparkle:version="6.9.3447.37"/>
+        <enclosure url="https://downloads.vivaldi.com/stable-auto/Vivaldi.6.8.3381.57-6.9.3447.37.x64.delta.7z.cab" sparkle:deltaFrom="6.8.3381.57" sparkle:version="6.9.3447.37"/>
+      </sparkle:deltas>
+      <enclosure url="https://downloads.vivaldi.com/stable-auto/Vivaldi.6.9.3447.37.x64.exe" sparkle:version="6.9.3447.37"/>
+      <sparkle:minimumSystemVersion>6.4</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>

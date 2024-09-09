@@ -1,0 +1,506 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-client-date",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "image/svg+xml"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 3,
+    "RecordedBrowser": "c:\\users\\tyler\\appdata\\local\\vivaldi\\application\\vivaldi.exe",
+    "RecordingDate": "авг-28-2024",
+    "RecordingDuration": 184922,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1724847897,
+    "RecordingType": "Application",
+    "TotalBytesReceived": 159138,
+    "TotalBytesSent": 46495,
+    "TotalRequests": 20,
+    "UserAgent": "Vivaldi/6.8.3381.57 WinSparkle/0.5.2 (Win64)"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "vivaldi.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "31.209.137.5",
+          "IncludeInScript": false,
+          "Name": "update.vivaldi.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 109,
+              "EventId": 22,
+              "HttpStatus": 200,
+              "Size": 728,
+              "URL": "https://update.vivaldi.com/update/1.0/public/appcast.x64.xml"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "pflb.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "77.50.236.214",
+          "IncludeInScript": true,
+          "Name": "dev-boomq.pflb.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 368,
+              "HttpStatus": 200,
+              "Size": 726,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 46,
+              "EventId": 366,
+              "HttpStatus": 201,
+              "Size": 724,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 356,
+              "HttpStatus": 200,
+              "Size": 2151,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile/previewReport"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 354,
+              "HttpStatus": 200,
+              "Size": 1644,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile/previewReport"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 352,
+              "HttpStatus": 200,
+              "Size": 1412,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile/previewReport"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 209,
+              "HttpStatus": 200,
+              "Size": 899,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile/previewReport"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 46,
+              "EventId": 205,
+              "HttpStatus": 200,
+              "Size": 102,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile/slaTypeList"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 78,
+              "EventId": 170,
+              "HttpStatus": 200,
+              "Size": 54412,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/test?sort=createDate,desc&size=999999&projectId=15045&state=FINISHED,FAILED,CANCELED"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 63,
+              "EventId": 165,
+              "HttpStatus": 200,
+              "Size": 26092,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/project?sort=lastModified,desc&size=999"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 31,
+              "EventId": 163,
+              "HttpStatus": 200,
+              "Size": 2176,
+              "URL": "https://dev-boomq.pflb.ru/static/media/arrow.659530470e6be7b696f0d3d15a3179f5.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 16,
+              "EventId": 160,
+              "HttpStatus": 200,
+              "Size": 670,
+              "URL": "https://dev-boomq.pflb.ru/static/media/arrow_down.6be88730f13ef3a159f4ef4438670da1.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 32,
+              "EventId": 149,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/test-srv/slaReportProfile"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 145,
+              "HttpStatus": 200,
+              "Size": 531,
+              "URL": "https://dev-boomq.pflb.ru/test-runner-srv/testRunner?sort=id,desc"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 143,
+              "HttpStatus": 200,
+              "Size": 314,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/teamMember/teamContext?teamId=13"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 141,
+              "HttpStatus": 200,
+              "Size": 269,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/team/13"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 139,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/identityProvider"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 135,
+              "HttpStatus": 200,
+              "Size": 164,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/user"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 63,
+              "EventId": 128,
+              "HttpStatus": 200,
+              "Size": 66848,
+              "URL": "https://dev-boomq.pflb.ru/project-srv/modelSchema"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 125,
+              "EventId": 125,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/auth-srv/login"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 57,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://dev-boomq.pflb.ru/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "o.pki.goog",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.220.94",
+          "IncludeInScript": false,
+          "Name": "o.pki.goog",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 32,
+              "EventId": 213,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://o.pki.goog/wr2/MFIwUDBOMEwwSjAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEQDryvsLxPUTYgrxIFU2R2Fz"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.162.94",
+          "IncludeInScript": false,
+          "Name": "update.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 62,
+              "EventId": 349,
+              "HttpStatus": 200,
+              "Size": 171,
+              "URL": "http://update.googleapis.com/service/update2/json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 62,
+              "EventId": 344,
+              "HttpStatus": 200,
+              "Size": 170,
+              "URL": "http://update.googleapis.com/service/update2/json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 62,
+              "EventId": 207,
+              "HttpStatus": 200,
+              "Size": 170,
+              "URL": "http://update.googleapis.com/service/update2/json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 63,
+              "EventId": 193,
+              "HttpStatus": 200,
+              "Size": 172,
+              "URL": "http://update.googleapis.com/service/update2/json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 63,
+              "EventId": 153,
+              "HttpStatus": 200,
+              "Size": 171,
+              "URL": "http://update.googleapis.com/service/update2/json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 94,
+              "EventId": 121,
+              "HttpStatus": 200,
+              "Size": 2282,
+              "URL": "http://update.googleapis.com/service/update2/json?cup2key=14:2GQzYBgb9unomGjn2CL1E36fVld4Lp4w_HGFVVb8Qpw&cup2hreq=5c921cfca2048a80c258e607a0174ee423cb3289af549e768a81136f003a1cee"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.221.95",
+          "IncludeInScript": false,
+          "Name": "safebrowsing.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 47,
+              "EventId": 223,
+              "HttpStatus": 200,
+              "Size": 158242,
+              "URL": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$req=ChkKB3ZpdmFsZGkSDjEyNi4wLjY0NzguMjM2GikIBRABGhsKDQgFEAYYASIDMDAxMAEQ-7UYGgIYCmzlvusiBCABIAIoARopCAEQARobCg0IARAGGAEiAzAwMTABEPX_DhoCGAqnPL2BIgQgASACKAEaKQgDEAEaGwoNCAMQBhgBIgMwMDEwARCX9w4aAhgKNEC_RSIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQlMYPGgIYCszmS_MiBCABIAIoARooCAEQCBoaCg0IARAIGAEiAzAwMTAEEKM6GgIYCnCM3lgiBCABIAIoBBopCA8QARobCg0IDxAGGAEiAzAwMTABEJW_AxoCGApDI51SIgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAjGgIYCl_RllQiBCABIAIoASICCAE=&$ct=application/x-protobuf&key=AIzaSyBBPv26Ne5UxEKe7ZcqpgUWakoztQUutss"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "globalsign.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.18.20.226",
+          "IncludeInScript": false,
+          "Name": "ocsp.globalsign.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 363,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://ocsp.globalsign.com/ca/gsatlasr3dvtlsca2024q1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEAG%2FNzOshEKN3r9q8LIDtSk%3D"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 199,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://ocsp.globalsign.com/gsgccr3dvtlsca2020/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCDGr%2FRzGC5CdHjoSvcQ%3D%3D"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 94,
+              "EventId": 55,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.globalsign.com/ca/gsatlasr3dvtlsca2024q1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEAG%2FNzOshEKN3r9q8LIDtSk%3D"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 62,
+              "EventId": 45,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://ocsp.globalsign.com/gsgccr3dvtlsca2020/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCDGr%2FRzGC5CdHjoSvcQ%3D%3D"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 32,
+              "EventId": 43,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.globalsign.com/ca/gsatlasr3dvtlsca2024q1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEAG%2FNzOshEKN3r9q8LIDtSk%3D"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

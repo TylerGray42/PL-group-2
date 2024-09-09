@@ -1,0 +1,171 @@
+boomqTestPlan:
+  configurationElements:
+  - type: "HTTP_COOKIE_MANAGER"
+    id: "4a5844aa-b9c6-4d42-afe0-925ff01e770e"
+    label: "Http cookie manager"
+    enabled: true
+    clearEachIteration: false
+    clearControlledByThreadGroup: false
+    cookiePolicy: "STANDARD"
+    userDefinedCookies: []
+  - type: "HTTP_HEADER_MANAGER"
+    id: "846a3869-09ed-4935-bffa-4b593f6824de"
+    label: "Http header manager"
+    enabled: true
+    headers:
+      User-Agent: "Mozilla/5.0"
+  - type: "HTTP_REQUEST_DEFAULTS"
+    id: "632c9f51-cd22-4048-8d17-be34a1d1ed12"
+    label: "Http request defaults"
+    enabled: true
+    protocol: null
+    serverName: null
+    port: null
+    path: null
+    responseTimeout: 120000
+    connectTimeout: 60000
+    clientImplementation: null
+    contentEncoding: null
+    queryParameters: null
+    bodyParameters: null
+    body: null
+    proxyProperties: null
+    retrieveAllEmbeddedResources: null
+    useParallelDownloads: null
+    parallelDownloadsPoolSize: null
+    urlMustMatch: null
+    urlMustNotMatch: null
+    sourceAddress: null
+    saveResponseAsMd5Hash: null
+  urlOverwrites: null
+  threadGroups:
+  - type: "BOOMQ_STABLE_SCALABILITY"
+    id: "2ca4ebce-4bd8-437e-9a6b-2a2cd00427fb"
+    label: "New group 1"
+    typeDisplayName: ""
+    enabled: true
+    threadGroupElements:
+    - type: "CONTROLLER"
+      id: "a00619d7-f025-43df-9929-22c2c017297f"
+      label: "Transaction 1"
+      typeDisplayName: "Transaction Controller"
+      timerList: []
+      enabled: true
+      creationIndex: 1
+      individualProperties:
+        type: "TRANSACTION"
+        generateParentSampler: false
+        includeDurationOfAllElementsToGeneratedSampler: false
+      children:
+      - type: "SAMPLER"
+        id: "27ffd458-6ee5-4cdd-a126-36bfae3f429a"
+        label: "https://192.168.14.200:8082/api/kafka/send"
+        typeDisplayName: "HTTP Request"
+        timerList: []
+        enabled: true
+        individualProperties:
+          type: "HTTP"
+          method: "POST"
+          protocol: "https"
+          serverName: "192.168.14.200"
+          port: "8082"
+          path: "/api/kafka/send"
+          connectTimeout: null
+          responseTimeout: null
+          clientImplementation: null
+          contentEncoding: null
+          queryParameters: []
+          bodyParameters: []
+          headers: {}
+          body: "{\"message\":\"тест 2\"}"
+          automaticallyRedirect: false
+          followRedirects: true
+          useKeepAlive: true
+          browserCompatibleHeaders: false
+          doMultipartPost: false
+          filesUpload: null
+          responsePreview: null
+          proxyProperties: null
+          retrieveAllEmbeddedResources: true
+          useParallelDownloads: null
+          parallelDownloadsPoolSize: null
+          urlMustMatch: null
+          urlMustNotMatch: null
+          sourceAddress: null
+          saveResponseAsMd5Hash: null
+        assertions: []
+        extractors: []
+      - type: "SAMPLER"
+        id: "028c6e89-b866-4b3b-bbcc-15038cfa7d7f"
+        label: "https://192.168.14.200:8082/api/kafka/message"
+        typeDisplayName: "HTTP Request"
+        timerList: []
+        enabled: true
+        individualProperties:
+          type: "HTTP"
+          method: "GET"
+          protocol: "https"
+          serverName: "192.168.14.200"
+          port: "8082"
+          path: "/api/kafka/message"
+          connectTimeout: null
+          responseTimeout: null
+          clientImplementation: null
+          contentEncoding: null
+          queryParameters: []
+          bodyParameters: []
+          headers: {}
+          body: ""
+          automaticallyRedirect: false
+          followRedirects: true
+          useKeepAlive: true
+          browserCompatibleHeaders: false
+          doMultipartPost: false
+          filesUpload: null
+          responsePreview: null
+          proxyProperties: null
+          retrieveAllEmbeddedResources: true
+          useParallelDownloads: null
+          parallelDownloadsPoolSize: null
+          urlMustMatch: null
+          urlMustNotMatch: null
+          sourceAddress: null
+          saveResponseAsMd5Hash: null
+        assertions: []
+        extractors: []
+    boomqConfiguration:
+      resourceConfiguration:
+        testRunnerIds:
+        - 2
+        cloudTestRunLocationRequirements: null
+        entTestRunLocationRequirements: null
+        memoryMb: null
+        cpuShares: null
+      pacingConfiguration: null
+      loadProfilePercent: 100
+    loadProfile: null
+  timers:
+  - timerType: "CONSTANT"
+    id: "57437e5c-5473-48fd-bc60-608282becbe3"
+    typeDisplayName: null
+    label: "boomq_timer_57437e5c-5473-48fd-bc60-608282becbe3"
+    enabled: true
+    durationMs: 8000
+  loadProfileType: "PER_TEST"
+  loadProfile:
+    boomqProfileType: "STABLE"
+    stepCount: 1
+    usersPerStep: 10
+    stepLengthMs: 600000
+    rampUpMs: 60000
+    rampDownMs: 60000
+    durationAddedOnLastStepMs: 0
+  runThreadGroupConsecutively: false
+  runTearDownAfterShutdown: true
+  functionalMode: false
+  classpath: null
+slaGroupList: []
+resourceConfiguration: null
+supportingFiles: []
+supportingFilesV2: []
+importedJmxFileLocation: null

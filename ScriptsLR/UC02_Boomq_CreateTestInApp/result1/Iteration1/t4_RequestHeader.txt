@@ -1,0 +1,17 @@
+GET /project-srv/modelSchema HTTP/1.1
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc19ub3RpZmljYXRlZCI6dHJ1ZSwidXNlcl9pZCI6MTg3MywidXNlcl9uYW1lIjoicmF2aWwueXVudXNvdi45NEBnbWFpbC5jb20iLCJzY29wZSI6WyJ0cnVzdCIsInJlYWQiLCJ3cml0ZSJdLCJ1c2VyX2xhbmd1YWdlIjoiRU4iLCJleHAiOjE3MjU3NjExNTUsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI3NGYxOTVjNC02NDgzLTRmNzMtYmVlNS0wODQzYzdmNzYyODQiLCJjbGllbnRfaWQiOiJjbGllbnQifQ.GW-dCO7JuS5eJdUycaNJWpE-9WKszcj87RCrOnKm_JnLTqFJqp9yAxOdidOBuSE0UPZWIXgdirQUQDw7KVoFWGXAtj0eIamuFgkbkJW2vK2EhsFry6rHRtKUDMcDbDOxQV3xYIYBZAeFXsVB0Ecgf7FSRT5Ap8rG_cm7DT3xQN6BAVh37hu69Y533vVfBzGo517upbbMZDZGCvZS9ZzRYVzmsX5WsAt18bsDrFykpvYL3Eimyl1k3h6I2rRFtxKShaLMagD9bdxWueQkANdjXHzzYPnIazEASUssJIjJ5RlDpkpsG2MwUR_XhyZQk7giTY65kZJo384wYTgLLUM5eQ
+Referer: https://dev-boomq.pflb.ru/account/new-test
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: dev-boomq.pflb.ru
+Cookie: boomq_auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc19ub3RpZmljYXRlZCI6dHJ1ZSwidXNlcl9pZCI6MTg3MywidXNlcl9uYW1lIjoicmF2aWwueXVudXNvdi45NEBnbWFpbC5jb20iLCJzY29wZSI6WyJ0cnVzdCIsInJlYWQiLCJ3cml0ZSJdLCJ1c2VyX2xhbmd1YWdlIjoiRU4iLCJleHAiOjE3MjU3NjExNTUsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI3NGYxOTVjNC02NDgzLTRmNzMtYmVlNS0wODQzYzdmNzYyODQiLCJjbGllbnRfaWQiOiJjbGllbnQifQ.GW-dCO7JuS5eJdUycaNJWpE-9WKszcj87RCrOnKm_JnLTqFJqp9yAxOdidOBuSE0UPZWIXgdirQUQDw7KVoFWGXAtj0eIamuFgkbkJW2vK2EhsFry6rHRtKUDMcDbDOxQV3xYIYBZAeFXsVB0Ecgf7FSRT5Ap8rG_cm7DT3xQN6BAVh37hu69Y533vVfBzGo517upbbMZDZGCvZS9ZzRYVzmsX5WsAt18bsDrFykpvYL3Eimyl1k3h6I2rRFtxKShaLMagD9bdxWueQkANdjXHzzYPnIazEASUssJIjJ5RlDpkpsG2MwUR_XhyZQk7giTY65kZJo384wYTgLLUM5eQ
+

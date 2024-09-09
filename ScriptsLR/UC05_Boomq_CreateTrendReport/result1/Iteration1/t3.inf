@@ -1,0 +1,18 @@
+[t3]
+FileName2=t1_3_main.css
+RawStepEndTime=1725718272204
+RequestBodyFile=t3_RequestBody.txt
+RawStepName=modelSchema
+ContentType=application/json
+URL1=https://dev-boomq.pflb.ru/project-srv/modelSchema
+URL2=https://dev-boomq.pflb.ru/static/css/main.64a4c65b.css
+URL3=https://dev-boomq.pflb.ru/static/js/main.cddf1824.js
+ResponseHeaderFile=t3_ResponseHeader.txt
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1725718272043
+Total=3
+StepName=Url: modelSchema
+FileName1=t3.json
+FileName3=t1_1_main.UNK

@@ -1,0 +1,75 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(397): Notify: Transaction "TR04_RunTest" ended with a "Pass" status (Duration: 2,4228 Wasted Time: 0,0002).	[MsgId: MMSG-16871]
+Action.c(401): Notify: Transaction "TR05_TestDetails" started.	[MsgId: MMSG-16999]
+Action.c(403): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(403): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(409): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(409): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(415): lr_think_time: 60,00 seconds.	[MsgId: MMSG-15948]
+Action.c(417): web_url("18689") started  	[MsgId: MMSG-26355]
+Action.c(417): Connection to dev-boomq.pflb.ru:443 closed after being inactive for 89 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(417): Error -27792: Failed to connect to server "dev-boomq.pflb.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(417): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(417): Error -35060: No matches were found for the specified query: "$..state"  	[MsgId: MERR-35060]
+Action.c(417): Error -35060: No matches were found for the specified query: "$..displayState"  	[MsgId: MERR-35060]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 8.	[MsgId: MMSG-10545]
+Action.c(409): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(409): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(415): lr_think_time: 60,00 seconds.	[MsgId: MMSG-15948]
+Action.c(417): web_url("18689") started  	[MsgId: MMSG-26355]
+Action.c(417): Warning -26499: Internal Error - Invalid _iTotalConnectionsReached=7 _iTotalConnectionsAllowed=16 _iTotalHttp2Connections=-36 (LRW_NET_TOTAL_CONNECTIONS_LIMIT=50, MIN_RANGE_MAX_CONNECTIONS=1) for ptNetVUserVars=06186A28 in real_xfvLrwNetProcessAllItems  	[MsgId: MWAR-26499]
+Action.c(417): Connection to dev-boomq.pflb.ru:443 closed after being inactive for 69 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(417): Error -27792: Failed to connect to server "dev-boomq.pflb.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 8.	[MsgId: MMSG-10545]
+Action.c(417): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(417): Error -35060: No matches were found for the specified query: "$..state"  	[MsgId: MERR-35060]
+Action.c(417): Error -35060: No matches were found for the specified query: "$..displayState"  	[MsgId: MERR-35060]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(457): web_url("auth") highest severity level was "warning", 153 body bytes, 603 header bytes  	[MsgId: MMSG-26388]
+Action.c(468): Notify: Transaction "TR05_TestDetails" ended with a "Pass" status (Duration: 60,4697 Think Time: 60,0131 Wasted Time: 0,0001).	[MsgId: MMSG-16870]
+Action.c(470): lr_think_time: 60,00 seconds.	[MsgId: MMSG-15948]
+Action.c(472): Notify: Transaction "TR06_StopTest" started.	[MsgId: MMSG-16999]
+Action.c(474): web_custom_request("stop") started  	[MsgId: MMSG-26355]
+Action.c(474): Warning -26499: Internal Error - Invalid _iTotalConnectionsReached=7 _iTotalConnectionsAllowed=16 _iTotalHttp2Connections=-17 (LRW_NET_TOTAL_CONNECTIONS_LIMIT=50, MIN_RANGE_MAX_CONNECTIONS=1) for ptNetVUserVars=06916A28 in real_xfvLrwNetProcessAllItems  	[MsgId: MWAR-26499]
+Action.c(474): Connection to dev-boomq.pflb.ru:443 closed after being inactive for 60 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(474): Error -27792: Failed to connect to server "dev-boomq.pflb.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 5.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Action.c(6): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Action.c(9): web_url("dev-boomq.pflb.ru") started  	[MsgId: MMSG-26355]
+Action.c(9): Warning -26499: Internal Error - Invalid _iTotalConnectionsReached=7 _iTotalConnectionsAllowed=16 _iTotalHttp2Connections=-18 (LRW_NET_TOTAL_CONNECTIONS_LIMIT=50, MIN_RANGE_MAX_CONNECTIONS=1) for ptNetVUserVars=06916A28 in real_xfvLrwNetProcessAllItems  	[MsgId: MWAR-26499]
+Action.c(9): Error -27792: Failed to connect to server "dev-boomq.pflb.ru:80": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Action.c(6): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Action.c(9): web_url("dev-boomq.pflb.ru") started  	[MsgId: MMSG-26355]
+Action.c(9): Warning -26499: Internal Error - Invalid _iTotalConnectionsReached=7 _iTotalConnectionsAllowed=16 _iTotalHttp2Connections=-18 (LRW_NET_TOTAL_CONNECTIONS_LIMIT=50, MIN_RANGE_MAX_CONNECTIONS=1) for ptNetVUserVars=06916A28 in real_xfvLrwNetProcessAllItems  	[MsgId: MWAR-26499]
+Action.c(9): Error -27792: Failed to connect to server "dev-boomq.pflb.ru:80": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

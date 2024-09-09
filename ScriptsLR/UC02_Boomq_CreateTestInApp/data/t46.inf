@@ -1,0 +1,11 @@
+[t46]
+FileName1=t46_-6770916577216515732.json
+URL1=https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/-6770916577216515732
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t46_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t46_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

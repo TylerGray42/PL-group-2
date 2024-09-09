@@ -1,0 +1,126 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: dev-boomq.pflb.ru",
+                "infFile": "t1.inf",
+                "time": 1725718326856
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: config.json",
+                "infFile": "t3.inf",
+                "time": 1725718327254
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: modelSchema",
+                "infFile": "t4.inf",
+                "time": 1725718327464
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: user",
+                "infFile": "t6.inf",
+                "time": 1725718327588
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: identityProvider",
+                "infFile": "t7.inf",
+                "time": 1725718327671
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: team",
+                "infFile": "t9.inf",
+                "time": 1725718327928
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: teamContext",
+                "infFile": "t10.inf",
+                "time": 1725718328053
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: testRunner",
+                "infFile": "t11.inf",
+                "time": 1725718328145
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: user_2",
+                "infFile": "t12.inf",
+                "time": 1725718328274
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: 13",
+                "infFile": "t13.inf",
+                "time": 1725718328451
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: search",
+                "infFile": "t14.inf",
+                "time": 1725718328624
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: test",
+                "infFile": "t16.inf",
+                "time": 1725718333995
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: previewChart",
+                "infFile": "t17.inf",
+                "time": 1725718335691
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: previewTable",
+                "infFile": "t18.inf",
+                "time": 1725718335850
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: report",
+                "infFile": "t20.inf",
+                "time": 1725718336159
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: search_2",
+                "infFile": "t21.inf",
+                "time": 1725718336304
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC06_TR01_Authorization",
+                "rawStartTime": 1725718326864,
+                "rawEndTime": 1725718328466,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06087756156921387
+            },
+            {
+                "transactionName": "UC06_TR02_Reports",
+                "rawStartTime": 1725718328481,
+                "rawEndTime": 1725718328637,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007066249847412109
+            },
+            {
+                "transactionName": "UC06_TR03_Add_New_Report",
+                "rawStartTime": 1725718333683,
+                "rawEndTime": 1725718336313,
+                "thinkTime": 0.0,
+                "wastedTime": 0.038910627365112308
+            }
+        ]
+    }
+]

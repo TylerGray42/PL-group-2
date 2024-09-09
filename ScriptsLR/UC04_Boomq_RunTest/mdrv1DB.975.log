@@ -1,0 +1,20 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(364): web_url("15005_2") was successful, 10227 body bytes, 958 header bytes  	[MsgId: MMSG-26386]
+Action.c(377): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(377): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(383): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(383): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(389): lr_think_time: 60,00 seconds.	[MsgId: MMSG-15948]
+Action.c(391): web_url("18268") started  	[MsgId: MMSG-26355]
+Action.c(391): Connection to dev-boomq.pflb.ru:443 closed after being inactive for 81 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(391): Error -27792: Failed to connect to server "dev-boomq.pflb.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(391): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(391): Error -35060: No matches were found for the specified query: "$.state"  	[MsgId: MERR-35060]
+Action.c(391): Error -35060: No matches were found for the specified query: "$.displayState"  	[MsgId: MERR-35060]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

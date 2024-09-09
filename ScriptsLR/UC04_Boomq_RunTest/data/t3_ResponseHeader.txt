@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: 
+cache-control: max-age=0, private, must-revalidate
+content-encoding: gzip
+content-length: 234
+content-type: application/json; charset=utf-8
+cross-origin-window-policy: deny
+date: Sun, 25 Aug 2024 21:28:59 GMT
+server: Fly/21b3f2da (2024-08-24)
+vary: accept-encoding
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-ratelimit-limit: 60
+x-ratelimit-remaining: 59
+x-ratelimit-reset: 1724623200
+x-request-from: 95.105.68.9
+x-request-id: F-8V-KYNvPOvt_wLiqFh
+x-request-regions: a/waw;s/ams
+x-response-origin: 2867496f794d18
+x-runtime: 40ms
+x-xss-protection: 1; mode=block
+via: 1.1 fly.io
+fly-request-id: 01J65Q2F8SB978X1V096K47HKB-waw
+

@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 42
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: x-ms-client-request-id, x-ms-useragent
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://www.bing.com
+X-EventID: 66cc7d3a68234a7d8a5547dee4d29d96
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy-Report-Only: script-src https: 'strict-dynamic' 'report-sample' 'nonce-6Lt7nluyJU1jnaF+367fbMJuuCmWsk4Y2MsuKJd9UAs='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 55E099E0942D4AAEA77DD8ECFD0FE48B Ref B: STOEDGE1006 Ref C: 2024-08-26T13:03:54Z
+Date: Mon, 26 Aug 2024 13:03:54 GMT
+Connection: keep-alive
+Set-Cookie: _EDGE_S=SID=1CE0F4DF21486B20031FE03820606A26; domain=.bing.com; path=/; HttpOnly,MUIDB=37B2D2ECCA4A663236C9C66BCB6267A6; expires=Sat, 20-Sep-2025 13:03:54 GMT; path=/; HttpOnly,WLS=C=87b516458b911f6b&N=%d0%a0%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c; domain=.bing.com; path=/; secure; SameSite=None,_SS=SID=1CE0F4DF21486B20031FE03820606A26; domain=.bing.com; path=/; secure; SameSite=None,SRCHHPGUSR=SRCHLANG=ru&SRCHLANGV2=ru&BRW=XW&BRH=M&CW=1872&CH=958&DPR=1&UTC=180&DM=0&EXLTT=17&HV=1700349041&WTS=63835945475&SW=1920&SH=1080&PV=15.0.0&PRVCW=881&PRVCH=929&SCW=1857&SCH=3394&IG=C2D4784AEEC2439BB690BCD8FEE2EC93; domain=.bing.com; expires=Wed, 26-Aug-2026 13:03:54 GMT; path=/; secure; SameSite=None,_U=1L3GfeJKxyZP5gH5Fh8D11npP7sSbXkDWSNDwNFETrMhXc_X46lAn6aYt8v5ZA6m_aQWCYCsKC8tjVNZVz9moSrz9GGKAue-TbJuqKJs_Y-q-1KK4MrYpWEuVy1ABphuWvcLNiRPG1XdluSrcNGafczHLTIAVpJ280R2sciYkRbceWtqCn7ifQEPmAMaUgxm7OYBP5UGMse997GgjYpU6rsgqFGOHwhFfzs7PqYe0rQnty-3y3mJaXiTMliTBWiyU; domain=.bing.com; expires=Mon, 09-Sep-2024 13:03:54 GMT; path=/; secure; SameSite=None,ANON=A=39978A300F926ACA38EECE85FFFFFFFF&E=1d02&W=1; domain=.bing.com; expires=Wed, 26-Aug-2026 13:03:54 GMT; path=/; secure; SameSite=None
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.9c341060.1724677434.18f43fe
+

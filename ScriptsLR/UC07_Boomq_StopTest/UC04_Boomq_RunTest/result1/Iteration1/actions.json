@@ -1,0 +1,627 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: dev-boomq.pflb.ru",
+                "infFile": "t1.inf",
+                "time": 1724962761026
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login",
+                "infFile": "t2.inf",
+                "time": 1724962761171
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: config.json",
+                "infFile": "t3.inf",
+                "time": 1724962761244
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: modelSchema",
+                "infFile": "t4.inf",
+                "time": 1724962761360
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: user",
+                "infFile": "t5.inf",
+                "time": 1724962761439
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: identityProvider",
+                "infFile": "t6.inf",
+                "time": 1724962761498
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: team",
+                "infFile": "t8.inf",
+                "time": 1724962761670
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: teamContext",
+                "infFile": "t9.inf",
+                "time": 1724962761741
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: testRunner",
+                "infFile": "t10.inf",
+                "time": 1724962761791
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: user_2",
+                "infFile": "t11.inf",
+                "time": 1724962761897
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: {team_id}",
+                "infFile": "t12.inf",
+                "time": 1724962761993
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: label",
+                "infFile": "t13.inf",
+                "time": 1724962762085
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: project",
+                "infFile": "t14.inf",
+                "time": 1724962762157
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: 15005",
+                "infFile": "t15.inf",
+                "time": 1724962762261
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: 15043",
+                "infFile": "t17.inf",
+                "time": 1724962762326
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: downloadLink",
+                "infFile": "t18.inf",
+                "time": 1724962762537
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Custom Request: test",
+                "infFile": "t21.inf",
+                "time": 1724962762730
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: project_2",
+                "infFile": "t22.inf",
+                "time": 1724962762872
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: label_2",
+                "infFile": "t23.inf",
+                "time": 1724962762940
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: user_3",
+                "infFile": "t24.inf",
+                "time": 1724962763003
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: test_2",
+                "infFile": "t25.inf",
+                "time": 1724962763074
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Url: test_3",
+                "infFile": "t26.inf",
+                "time": 1724962763179
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: 15005_2",
+                "infFile": "t27.inf",
+                "time": 1724962763323
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: 18268",
+                "infFile": "t30.inf",
+                "time": 1724962763453
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: testMetric",
+                "infFile": "t31.inf",
+                "time": 1724962763583
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: auth",
+                "infFile": "t33.inf",
+                "time": 1724962763836
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Url: 18268_2",
+                "infFile": "t34.inf",
+                "time": 1724962763910
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: testMetric_2",
+                "infFile": "t35.inf",
+                "time": 1724962764008
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Url: 18268_3",
+                "infFile": "t36.inf",
+                "time": 1724962764104
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Url: testMetric_3",
+                "infFile": "t37.inf",
+                "time": 1724962764191
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Url: common-dashboard-tdb-13",
+                "infFile": "t38.inf",
+                "time": 1724962772997
+            },
+            {
+                "stepId": "STEP32",
+                "stepName": "Custom Request: frontend-metrics",
+                "infFile": "t39.inf",
+                "time": 1724962773079
+            },
+            {
+                "stepId": "STEP33",
+                "stepName": "Url: 18268_4",
+                "infFile": "t40.inf",
+                "time": 1724962773142
+            },
+            {
+                "stepId": "STEP34",
+                "stepName": "Url: testMetric_4",
+                "infFile": "t41.inf",
+                "time": 1724962773568
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Url: ca51acaf-9803-4ad8-b507-923b152a1ca9",
+                "infFile": "t42.inf",
+                "time": 1724962774145
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Custom Request: query",
+                "infFile": "t43.inf",
+                "time": 1724962774220
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Custom Request: query_2",
+                "infFile": "t44.inf",
+                "time": 1724962774311
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Custom Request: query_3",
+                "infFile": "t45.inf",
+                "time": 1724962774410
+            },
+            {
+                "stepId": "STEP39",
+                "stepName": "Custom Request: query_4",
+                "infFile": "t46.inf",
+                "time": 1724962774498
+            },
+            {
+                "stepId": "STEP40",
+                "stepName": "Custom Request: query_5",
+                "infFile": "t47.inf",
+                "time": 1724962774618
+            },
+            {
+                "stepId": "STEP41",
+                "stepName": "Custom Request: query_6",
+                "infFile": "t48.inf",
+                "time": 1724962774699
+            },
+            {
+                "stepId": "STEP42",
+                "stepName": "Custom Request: query_7",
+                "infFile": "t49.inf",
+                "time": 1724962774783
+            },
+            {
+                "stepId": "STEP43",
+                "stepName": "Url: orgs",
+                "infFile": "t50.inf",
+                "time": 1724962774829
+            },
+            {
+                "stepId": "STEP44",
+                "stepName": "Url: search",
+                "infFile": "t51.inf",
+                "time": 1724962774882
+            },
+            {
+                "stepId": "STEP45",
+                "stepName": "Custom Request: query_8",
+                "infFile": "t52.inf",
+                "time": 1724962774977
+            },
+            {
+                "stepId": "STEP46",
+                "stepName": "Custom Request: query_9",
+                "infFile": "t53.inf",
+                "time": 1724962775098
+            },
+            {
+                "stepId": "STEP47",
+                "stepName": "Url: annotations",
+                "infFile": "t54.inf",
+                "time": 1724962775157
+            },
+            {
+                "stepId": "STEP48",
+                "stepName": "Custom Request: query_10",
+                "infFile": "t55.inf",
+                "time": 1724962775241
+            },
+            {
+                "stepId": "STEP49",
+                "stepName": "Custom Request: query_11",
+                "infFile": "t56.inf",
+                "time": 1724962775322
+            },
+            {
+                "stepId": "STEP50",
+                "stepName": "Custom Request: query_12",
+                "infFile": "t57.inf",
+                "time": 1724962775411
+            },
+            {
+                "stepId": "STEP51",
+                "stepName": "Custom Request: query_13",
+                "infFile": "t58.inf",
+                "time": 1724962775489
+            },
+            {
+                "stepId": "STEP52",
+                "stepName": "Custom Request: query_14",
+                "infFile": "t59.inf",
+                "time": 1724962775556
+            },
+            {
+                "stepId": "STEP53",
+                "stepName": "Custom Request: query_15",
+                "infFile": "t60.inf",
+                "time": 1724962775654
+            },
+            {
+                "stepId": "STEP54",
+                "stepName": "Custom Request: query_16",
+                "infFile": "t61.inf",
+                "time": 1724962775741
+            },
+            {
+                "stepId": "STEP55",
+                "stepName": "Custom Request: query_17",
+                "infFile": "t62.inf",
+                "time": 1724962775821
+            },
+            {
+                "stepId": "STEP56",
+                "stepName": "Custom Request: query_18",
+                "infFile": "t63.inf",
+                "time": 1724962775897
+            },
+            {
+                "stepId": "STEP57",
+                "stepName": "Custom Request: query_19",
+                "infFile": "t64.inf",
+                "time": 1724962775981
+            },
+            {
+                "stepId": "STEP58",
+                "stepName": "Custom Request: query_20",
+                "infFile": "t65.inf",
+                "time": 1724962776057
+            },
+            {
+                "stepId": "STEP59",
+                "stepName": "Custom Request: query_21",
+                "infFile": "t66.inf",
+                "time": 1724962776152
+            },
+            {
+                "stepId": "STEP60",
+                "stepName": "Custom Request: query_22",
+                "infFile": "t67.inf",
+                "time": 1724962776225
+            },
+            {
+                "stepId": "STEP61",
+                "stepName": "Custom Request: query_23",
+                "infFile": "t68.inf",
+                "time": 1724962776316
+            },
+            {
+                "stepId": "STEP62",
+                "stepName": "Custom Request: query_24",
+                "infFile": "t69.inf",
+                "time": 1724962776401
+            },
+            {
+                "stepId": "STEP63",
+                "stepName": "Custom Request: query_25",
+                "infFile": "t70.inf",
+                "time": 1724962776480
+            },
+            {
+                "stepId": "STEP64",
+                "stepName": "Custom Request: query_26",
+                "infFile": "t71.inf",
+                "time": 1724962776563
+            },
+            {
+                "stepId": "STEP65",
+                "stepName": "Url: annotations_2",
+                "infFile": "t72.inf",
+                "time": 1724962776638
+            },
+            {
+                "stepId": "STEP66",
+                "stepName": "Custom Request: query_27",
+                "infFile": "t73.inf",
+                "time": 1724962776714
+            },
+            {
+                "stepId": "STEP67",
+                "stepName": "Custom Request: query_28",
+                "infFile": "t74.inf",
+                "time": 1724962776796
+            },
+            {
+                "stepId": "STEP68",
+                "stepName": "Custom Request: query_29",
+                "infFile": "t75.inf",
+                "time": 1724962776879
+            },
+            {
+                "stepId": "STEP69",
+                "stepName": "Custom Request: query_30",
+                "infFile": "t76.inf",
+                "time": 1724962776971
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Custom Request: query_31",
+                "infFile": "t77.inf",
+                "time": 1724962777047
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Custom Request: query_32",
+                "infFile": "t78.inf",
+                "time": 1724962777117
+            },
+            {
+                "stepId": "STEP72",
+                "stepName": "Custom Request: query_33",
+                "infFile": "t79.inf",
+                "time": 1724962777200
+            },
+            {
+                "stepId": "STEP73",
+                "stepName": "Custom Request: query_34",
+                "infFile": "t80.inf",
+                "time": 1724962777289
+            },
+            {
+                "stepId": "STEP74",
+                "stepName": "Custom Request: frontend-metrics_2",
+                "infFile": "t81.inf",
+                "time": 1724962777400
+            },
+            {
+                "stepId": "STEP75",
+                "stepName": "Custom Request: query_35",
+                "infFile": "t82.inf",
+                "time": 1724962777510
+            },
+            {
+                "stepId": "STEP76",
+                "stepName": "Custom Request: query_36",
+                "infFile": "t83.inf",
+                "time": 1724962777581
+            },
+            {
+                "stepId": "STEP77",
+                "stepName": "Custom Request: query_37",
+                "infFile": "t84.inf",
+                "time": 1724962777661
+            },
+            {
+                "stepId": "STEP78",
+                "stepName": "Custom Request: query_38",
+                "infFile": "t85.inf",
+                "time": 1724962777744
+            },
+            {
+                "stepId": "STEP79",
+                "stepName": "Url: 18268_5",
+                "infFile": "t86.inf",
+                "time": 1724962777811
+            },
+            {
+                "stepId": "STEP80",
+                "stepName": "Custom Request: query_39",
+                "infFile": "t87.inf",
+                "time": 1724962777884
+            },
+            {
+                "stepId": "STEP81",
+                "stepName": "Custom Request: query_40",
+                "infFile": "t88.inf",
+                "time": 1724962777982
+            },
+            {
+                "stepId": "STEP82",
+                "stepName": "Custom Request: query_41",
+                "infFile": "t89.inf",
+                "time": 1724962778068
+            },
+            {
+                "stepId": "STEP83",
+                "stepName": "Custom Request: query_42",
+                "infFile": "t90.inf",
+                "time": 1724962778156
+            },
+            {
+                "stepId": "STEP84",
+                "stepName": "Url: testMetric_5",
+                "infFile": "t91.inf",
+                "time": 1724962778243
+            },
+            {
+                "stepId": "STEP85",
+                "stepName": "Custom Request: query_43",
+                "infFile": "t92.inf",
+                "time": 1724962778336
+            },
+            {
+                "stepId": "STEP86",
+                "stepName": "Url: annotations_3",
+                "infFile": "t93.inf",
+                "time": 1724962778411
+            },
+            {
+                "stepId": "STEP87",
+                "stepName": "Custom Request: query_44",
+                "infFile": "t94.inf",
+                "time": 1724962778513
+            },
+            {
+                "stepId": "STEP88",
+                "stepName": "Custom Request: query_45",
+                "infFile": "t95.inf",
+                "time": 1724962778608
+            },
+            {
+                "stepId": "STEP89",
+                "stepName": "Custom Request: query_46",
+                "infFile": "t96.inf",
+                "time": 1724962778702
+            },
+            {
+                "stepId": "STEP90",
+                "stepName": "Custom Request: query_47",
+                "infFile": "t97.inf",
+                "time": 1724962778799
+            },
+            {
+                "stepId": "STEP91",
+                "stepName": "Custom Request: query_48",
+                "infFile": "t98.inf",
+                "time": 1724962778876
+            },
+            {
+                "stepId": "STEP92",
+                "stepName": "Custom Request: query_49",
+                "infFile": "t99.inf",
+                "time": 1724962778974
+            },
+            {
+                "stepId": "STEP93",
+                "stepName": "Custom Request: query_50",
+                "infFile": "t100.inf",
+                "time": 1724962779061
+            },
+            {
+                "stepId": "STEP94",
+                "stepName": "Custom Request: query_51",
+                "infFile": "t101.inf",
+                "time": 1724962779168
+            },
+            {
+                "stepId": "STEP95",
+                "stepName": "Custom Request: query_52",
+                "infFile": "t102.inf",
+                "time": 1724962779257
+            },
+            {
+                "stepId": "STEP96",
+                "stepName": "Custom Request: query_53",
+                "infFile": "t103.inf",
+                "time": 1724962779358
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "TR01_Authorization",
+                "rawStartTime": 1724962761042,
+                "rawEndTime": 1724962762004,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05402970314025879
+            },
+            {
+                "transactionName": "TR02_Tests",
+                "rawStartTime": 1724962762019,
+                "rawEndTime": 1724962762161,
+                "thinkTime": 0.0,
+                "wastedTime": 0.010604143142700196
+            },
+            {
+                "transactionName": "TR03_Select_Test",
+                "rawStartTime": 1724962762193,
+                "rawEndTime": 1724962762553,
+                "thinkTime": 0.0,
+                "wastedTime": 0.015049934387207032
+            },
+            {
+                "transactionName": "TR04_Run_test",
+                "rawStartTime": 1724962762585,
+                "rawEndTime": 1724962763181,
+                "thinkTime": 0.0,
+                "wastedTime": 0.041504859924316409
+            },
+            {
+                "transactionName": "TR05_Test_details",
+                "rawStartTime": 1724962763213,
+                "rawEndTime": 1724962764012,
+                "thinkTime": 0.0,
+                "wastedTime": 0.033231496810913089
+            },
+            {
+                "transactionName": "TR06_Detailed_stats",
+                "rawStartTime": 1724962764201,
+                "rawEndTime": 1724962777417,
+                "thinkTime": 0.0,
+                "wastedTime": 1.9916622638702393
+            }
+        ]
+    }
+]

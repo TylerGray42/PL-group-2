@@ -1,0 +1,6 @@
+"{\"id\":\"d9f8c819-c5b3-49fa-9663-6c2df04e445d\",\"name\":\"report-chart-d9f8c819-c5b3-49fa-96"
+"63-6c2df04e445d-serie-83893823-5e68-40a7-9ce9-5dff2d3a73fe\",\"series\":[{\"aggregationInterva"
+"l\":10,\"aggregationIntervalTimeUnit\":\"SECOND\",\"id\":\"83893823-5e68-40a7-9ce9-5dff2d3a73f"
+"e\",\"datasets\":[{\"points\":[]}],\"displayProps\":{\"axisUnit\":\"VUSER\",\"color\":\"#1d1d1"
+"d\",\"unit\":\"VUSER\"},\"testId\":18268,\"type\":\"VUSERS\",\"vuserType\":\"ACTUAL\"}],\"test"
+"Filters\":[{\"testId\":18268}]}"

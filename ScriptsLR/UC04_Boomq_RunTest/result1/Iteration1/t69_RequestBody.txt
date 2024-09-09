@@ -1,0 +1,4 @@
+"{"from":"1724675670611","to":"1724679390611","queries":[{"refId":"transaction","datasource":{""
+"type":"postgres","uid":"bc7e142d-d1db-4a7e-9a59-f922fbe1d91b"},"rawSql":"select distinct(name)"
+" from jmeter_metrics.sample_metric where (-9999 in ('21509') OR test_id in ('21509')) and is_t"
+"ransaction and $__timeFilter(\"timestamp\")","format":"table"}]}"

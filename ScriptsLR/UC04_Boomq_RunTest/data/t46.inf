@@ -1,0 +1,15 @@
+[t46]
+FileName1=t46_ca51acaf-9803-4ad8-b507-923b152a1ca9.json
+URL1=https://dev-boomq.pflb.ru/grafana/api/dashboards/uid/ca51acaf-9803-4ad8-b507-923b152a1ca9
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_46.xml
+RequestHeaderFile=t46_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t46_ResponseHeader.txt
+FileName2=t46_postgresPlugin.5dbf50fe15160919cf74.html
+URL2=https://dev-boomq.pflb.ru/grafana/public/build/postgresPlugin.5dbf50fe15160919cf74.js
+FileName3=t46_5216.565cbd1aa042f890edf2.html
+URL3=https://dev-boomq.pflb.ru/grafana/public/build/5216.565cbd1aa042f890edf2.js
+[ProtocolInfo]
+ProtocolId=QTWeb

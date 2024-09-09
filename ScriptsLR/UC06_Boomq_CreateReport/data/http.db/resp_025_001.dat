@@ -1,0 +1,4 @@
+Requested host does not match any Subject Alternative Names (SANs) on TLS certificate [82fa572837f3028cd28109eed5c4972fda04fc5affd226f845d3ba1c1ca34057] in use with this connection.
+
+Visit https://docs.fastly.com/en/guides/common-400-errors#error-421-misdirected-request for more information.
+

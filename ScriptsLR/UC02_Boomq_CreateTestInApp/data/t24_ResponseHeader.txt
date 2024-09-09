@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-BEServer: DB9PR05MB8474
+X-NanoProxy: 1,1
+Request-Id: ad2357b0-0fdd-c5a0-e991-b9b0ecd9e74b
+X-CalculatedFETarget: DU7P250CU001.internal.outlook.com
+MS-CV: sFcjrd0PoMXpkbmw7NnnSw.1.1
+OData-Version: 4.0
+X-BackEndHttpStatus: 200,200
+X-BEPartition: CLEURPRD05DUB02
+X-BeSku: Unknown
+X-CalculatedBETarget: DB9PR05MB8474.EURPRD05.PROD.OUTLOOK.COM
+X-Content-Type-Options: nosniff
+X-End2EndLatencyMs: 112
+X-FEEFZInfo: DUB
+X-FEProxyInfo: DU7P250CA0025
+X-FEServer: FR0P281CA0102
+X-MicroserviceVersion: 3.0.649.0
+x-ms-appId: 000000004835BC29
+X-Proxy-BackendServerStatus: 200
+X-Proxy-RoutingCorrectness: 1
+X-FirstHopCafeEFZ: HHN
+Alt-Svc: h3=":443";ma=2592000,h3-29=":443";ma=2592000
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Mon, 26 Aug 2024 13:04:02 GMT
+

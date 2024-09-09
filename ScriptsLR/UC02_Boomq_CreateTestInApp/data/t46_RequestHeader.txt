@@ -1,0 +1,9 @@
+GET https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/-6770916577216515732 HTTP/1.1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Host: edge.microsoft.com
+

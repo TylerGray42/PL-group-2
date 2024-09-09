@@ -1,0 +1,20 @@
+GET https://edge.microsoft.com/serviceexperimentation/v3/?osname=win&channel=stable&osver=10.0.22631&devicefamily=desktop&installdate=1622974563&clientversion=128.0.2739.42&experimentationmode=2&scpguard=0&scpfull=0&scpver=0 HTTP/1.1
+Pragma: no-cache
+Cache-Control: no-cache
+Edge-User-Anid: 39978A300F926ACA38EECE85FFFFFFFF
+Sec-Mesh-Client-Edge-Version: 128.0.2739.42
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22631
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+X-Client-Data: eyIxIjoiMCIsIjEwIjoiIiwiMiI6IjAiLCIzIjoiMCIsIjQiOiItMzE4MTg4MDMwOTU2NTExNzU0OCIsIjUiOiIiLCI2Ijoic3RhYmxlIiwiNyI6IjIwNzQ0NjkyMDM5NjkiLCI5IjoiZGVza3RvcCJ9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Host: edge.microsoft.com
+Connection: Keep-Alive
+

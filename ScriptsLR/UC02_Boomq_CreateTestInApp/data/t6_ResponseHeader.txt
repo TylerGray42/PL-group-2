@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 81
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 1232646E71AF40F1B89BAFDA959382D9 Ref B: STOEDGE1122 Ref C: 2024-08-26T13:03:49Z
+Date: Mon, 26 Aug 2024 13:03:49 GMT
+Connection: keep-alive
+Set-Cookie: _EDGE_S=F=1&SID=210AEDA378786A721917F94479F76B1A; path=/; httponly; domain=bing.com,_EDGE_V=1; path=/; httponly; expires=Sat, 20-Sep-2025 13:03:49 GMT; domain=bing.com,MUID=3F5A0187E3176D1F07291560E2986CC1; samesite=none; path=/; secure; expires=Sat, 20-Sep-2025 13:03:49 GMT; domain=bing.com,MUIDB=3F5A0187E3176D1F07291560E2986CC1; path=/; httponly; expires=Sat, 20-Sep-2025 13:03:49 GMT
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.9c341060.1724677429.18f4107
+

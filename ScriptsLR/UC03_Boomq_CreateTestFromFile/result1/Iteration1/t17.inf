@@ -1,0 +1,16 @@
+[t17]
+SnapshotXmlFile=snapshot_13.xml
+ContentType=application/json
+StepName=Custom Request: testInfo
+Total=2
+FileName1=t17.json
+FileName2=t16_0_v_25863.xml
+RequestHeaderFile=t17_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t17_ResponseHeader.txt
+RawStepEndTime=1725717981415
+RawStepName=testInfo
+RequestBodyFile=t17_RequestBody.txt
+RawStepStartTime=1725717981340
+URL1=https://dev-boomq.pflb.ru/testplan-srv/testInfo?testMode=TEST
+URL2=https://dev-boomq.pflb.ru/minio/boomq/boomq/teams/13/projects/25337/v_25863.yaml?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIOSFODNN7EXAMPLE/20240829/us-east-1/s3/aws4_request&X-Amz-Date=20240829T163426Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d50d74b1d50c879cb41bfb31495c07df6d4d615b3f72e70633c0b4b0440d3841

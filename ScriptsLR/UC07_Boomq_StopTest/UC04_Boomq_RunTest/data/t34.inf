@@ -1,0 +1,15 @@
+[t34]
+FileName1=t34_15005.json
+URL1=https://dev-boomq.pflb.ru/project-srv/project/15005
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_34.xml
+RequestHeaderFile=t34_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t34_ResponseHeader.txt
+FileName2=t34_load.287cb7234e668cd66173833db04886bf.svg
+URL2=https://dev-boomq.pflb.ru/static/media/load.287cb7234e668cd66173833db04886bf.svg
+FileName3=t34_message.09d91ef8f7769e72000af31b00da82e2.svg
+URL3=https://dev-boomq.pflb.ru/static/media/message.09d91ef8f7769e72000af31b00da82e2.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

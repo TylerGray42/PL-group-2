@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 42
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: _EDGE_S=SID=3BB55D69772769CD33DE498E76FE681E; path=/; HttpOnly,MUIDB=006E177420CA6F9F2FF003F321C26EFC; expires=Sat, 20-Sep-2025 13:03:55 GMT; path=/; HttpOnly,WLS=C=87b516458b911f6b&N=%d0%a0%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c; path=/; secure; SameSite=None,_SS=SID=3BB55D69772769CD33DE498E76FE681E; path=/; secure; SameSite=None,_U=1UbAFkQxaVxHUEgu8qoVYnv2jXlnihrqxpqcuVLtZMqARrsDvl5cHKLUyquIpSejd4JX_H06SsWDSYEN9I6BOCbvAjdop2gNYHKQWlsvtMBh3pRzIS7FWZzlhkLTHa8N71k30mvujTl6f6vUlnqioy9_8_lrXpTqFWyfMdpNfvvqm-SzvZZUN_yxfmtqASKGRoM3QJx8p9UYbzZC4fRmcn2PpTO3TtbOydHz1cqCjirTtzH8Sm-yaFZ5GKeFxP90X; expires=Mon, 09-Sep-2024 13:03:55 GMT; path=/; secure; SameSite=None,ANON=A=39978A300F926ACA38EECE85FFFFFFFF; expires=Wed, 26-Aug-2026 13:03:55 GMT; path=/; secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: x-ms-client-request-id, x-ms-useragent
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://www.bing.com
+X-EventID: 66cc7d3b52de43e7a45f1d7e2d8e93d9
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy-Report-Only: script-src https: 'strict-dynamic' 'report-sample' 'nonce-nXbH91nGHtJPfRmOF8Ms8fohu/kXbHXiXngndwrk6W8='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: D774D103A25F4B37876FC8AA04D02983 Ref B: HKBEDGE0610 Ref C: 2024-08-26T13:03:55Z
+Date: Mon, 26 Aug 2024 13:03:55 GMT
+
