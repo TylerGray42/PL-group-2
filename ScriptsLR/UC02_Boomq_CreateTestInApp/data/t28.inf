@@ -1,0 +1,13 @@
+[t28]
+FileName1=t28_config.json
+URL1=https://dev-boomq.pflb.ru/config.json
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_26.xml
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+FileName2=t28_en.b1acfc6b06bfe6e29bfbfc06d09d8177.svg
+URL2=https://dev-boomq.pflb.ru/static/media/en.b1acfc6b06bfe6e29bfbfc06d09d8177.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

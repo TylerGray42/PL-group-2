@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+request-id: f32729ee-ef84-4361-becc-24c8ebe13483
+client-request-id: f32729ee-ef84-4361-becc-24c8ebe13483
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Sweden Central","Slice":"E","Ring":"3","ScaleUnit":"002","RoleInstance":"GV3PEPF00005CE4"}}
+Link: <https://developer.microsoft-tst.com/en-us/graph/changes?$filterby=beta,PrivatePreview:copilotExportAPI&from=2024-07-01&to=2024-08-01>;rel="deprecation";type="text/html"
+Deprecation: Tue, 02 Jul 2024 23:59:59 GMT
+Sunset: Thu, 02 Jul 2026 23:59:59 GMT
+X-Content-Type-Options: nosniff
+OData-Version: 4.0
+Date: Mon, 26 Aug 2024 13:04:01 GMT
+

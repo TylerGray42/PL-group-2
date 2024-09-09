@@ -1,0 +1,6 @@
+"{"name":"TrendReport-14-11-37","projectId":15005,"chartProfileList":[{"slaTypeList":[{"fromDat"
+"e":0,"restrictionType":"AVERAGE","targetType":"TEST","toDate":30,"type":"GENERAL_SLA_TYPE"}],""
+"orderInReport":0}],"tableProfileList":[{"tableId":null,"slaTypeList":[{"fromDate":0,"restricti"
+"onType":"AVERAGE","targetType":"TEST","toDate":30,"type":"GENERAL_SLA_TYPE"}],"valueType":"VAL"
+"UE","orderInReport":1}],"testFilterExpressionList":[{"type":"TEST_ID_EXPRESSION","testIdList":"
+"[18326,18323]}]}"

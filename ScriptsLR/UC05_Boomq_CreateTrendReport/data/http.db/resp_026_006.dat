@@ -1,0 +1,4 @@
+2d4
+{"id":2783,"name":"untitled_profile_15:25","projectId":15045,"projectName":"test_00-08-19","baselineTestId":null,"testFilterExpressionList":[{"type":"TEST_ID_EXPRESSION","testIdList":[18389,18378]}],"testLimit":null,"chartProfileList":[{"chartId":"41eac142-1507-4dd4-9057-4aa566315f10","slaTypeList":[{"type":"GENERAL_SLA_TYPE","targetType":"TEST","restrictionType":"AVERAGE","fromDate":0,"toDate":30}],"orderInReport":0}],"tableProfileList":[{"tableId":"0d930259-2956-4703-8321-338f304cdf38","slaTypeList":[{"type":"GENERAL_SLA_TYPE","targetType":"TEST","restrictionType":"AVERAGE","fromDate":0,"toDate":30}],"valueType":"VALUE","baselineDiffType":null,"baselineTestId":null,"previousTestDiffType":null,"orderInReport":1}]}
+0
+

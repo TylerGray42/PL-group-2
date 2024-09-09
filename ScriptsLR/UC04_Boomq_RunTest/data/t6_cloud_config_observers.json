@@ -1,0 +1,18 @@
+{
+  "config": {
+    "update_checking_interval": 86400
+  },
+  "observers": [
+    {
+      "name": "CloudConfigServiceV1MobileConfigObserver",
+      "url": "https://edge-mobile-static.azureedge.net/eccp/get",
+      "md5": "LRrdOiFGwiPG4tMnmAYiFQ=="
+    },
+    {
+      "name": "operation_config",
+      "url": "https://edge-cloud-resource-static.azureedge.net/default/operation_config/default.json",
+      "md5": "5+uFRbT4h4zte0/QRegqvw=="
+    }
+  ],
+  "version": "24.8.21.0"
+}

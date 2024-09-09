@@ -1,0 +1,6 @@
+"{\"projectId\":15045,\"testFilterExpressionList\":[{\"type\":\"TEST_ID_EXPRESSION\",\"testIdLi"
+"st\":[18389,18378]}],\"chartProfileList\":[{\"slaTypeList\":[{\"fromDate\":0,\"restrictionType"
+"\":\"AVERAGE\",\"targetType\":\"TEST\",\"toDate\":30,\"type\":\"GENERAL_SLA_TYPE\"}],\"orderIn"
+"Report\":0}],\"tableProfileList\":[{\"tableId\":null,\"slaTypeList\":[{\"fromDate\":0,\"restri"
+"ctionType\":\"AVERAGE\",\"targetType\":\"TEST\",\"toDate\":30,\"type\":\"GENERAL_SLA_TYPE\"}],"
+"\"valueType\":\"VALUE\",\"orderInReport\":1}]}"

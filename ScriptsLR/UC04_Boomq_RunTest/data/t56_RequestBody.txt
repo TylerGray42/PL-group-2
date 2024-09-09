@@ -1,0 +1,6 @@
+"{\"queries\":[{\"refId\":\"A\",\"datasource\":{\"type\":\"postgres\",\"uid\":\"bc7e142d-d1db-4"
+"a7e-9a59-f922fbe1d91b\"},\"rawSql\":\"SELECT\\n  sum(count) AS \\\"count\\\"\\nFROM jmeter_met"
+"rics.sample_metric\\nWHERE\\n  $__timeFilter(timestamp) AND\\n  (-9999 in ('18268') OR test_id"
+" in ('18268')) AND\\n  ('%%all%%' in ('%%all%%') OR location IN ('%%all%%')) AND\\n  not is_tr"
+"ansaction\",\"format\":\"table\",\"datasourceId\":13,\"intervalMs\":60000,\"maxDataPoints\":24"
+"3}],\"from\":\"1724675670611\",\"to\":\"1724679390611\"}"

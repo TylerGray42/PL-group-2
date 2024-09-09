@@ -1,0 +1,17 @@
+GET /auth-srv/team?size=2 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc19ub3RpZmljYXRlZCI6dHJ1ZSwidXNlcl9pZCI6MTg3MywidXNlcl9uYW1lIjoicmF2aWwueXVudXNvdi45NEBnbWFpbC5jb20iLCJzY29wZSI6WyJ0cnVzdCIsInJlYWQiLCJ3cml0ZSJdLCJ1c2VyX2xhbmd1YWdlIjoiRU4iLCJleHAiOjE3MjU3NjExNzYsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI2NmU1OGI4NC01MTQ1LTRkN2MtODhhNS1mNjNlZGZhMjA4ZjQiLCJjbGllbnRfaWQiOiJjbGllbnQifQ.Z_EqbgcyMz2bh-nI2s8i8IAh6fCIkuwxzjyVClXrA7zjgmOdj9HIT1G5THj3RpOQ3UHJmFLycpcNQz66xmaG2IRhkskMsqywfyiLfbUZp4uyOn7LOMFRDnMl_zer3sDpH4QIudYj6C_8uVuy1asUWYr-J0MPeaXrwO0eIATnqvy_omKBH7Qu-p-t3QycaMMhUMTrZOiSASULgsiJtQ6pnjQ25PZos_seIw6r9dltXmxKGArNagVpItsdbmqL8qa9-d2qU-u8BhwdT2kgawcJBPz6Bzo5090Uai-tMFY8h6wVztj4huYRrrx9QVUwC9wxA7rpyih3TguhcVpVnn0FSw
+Referer: https://dev-boomq.pflb.ru/account/new-test
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: dev-boomq.pflb.ru
+Cookie: boomq_auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc19ub3RpZmljYXRlZCI6dHJ1ZSwidXNlcl9pZCI6MTg3MywidXNlcl9uYW1lIjoicmF2aWwueXVudXNvdi45NEBnbWFpbC5jb20iLCJzY29wZSI6WyJ0cnVzdCIsInJlYWQiLCJ3cml0ZSJdLCJ1c2VyX2xhbmd1YWdlIjoiRU4iLCJleHAiOjE3MjU3NjExNzYsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI2NmU1OGI4NC01MTQ1LTRkN2MtODhhNS1mNjNlZGZhMjA4ZjQiLCJjbGllbnRfaWQiOiJjbGllbnQifQ.Z_EqbgcyMz2bh-nI2s8i8IAh6fCIkuwxzjyVClXrA7zjgmOdj9HIT1G5THj3RpOQ3UHJmFLycpcNQz66xmaG2IRhkskMsqywfyiLfbUZp4uyOn7LOMFRDnMl_zer3sDpH4QIudYj6C_8uVuy1asUWYr-J0MPeaXrwO0eIATnqvy_omKBH7Qu-p-t3QycaMMhUMTrZOiSASULgsiJtQ6pnjQ25PZos_seIw6r9dltXmxKGArNagVpItsdbmqL8qa9-d2qU-u8BhwdT2kgawcJBPz6Bzo5090Uai-tMFY8h6wVztj4huYRrrx9QVUwC9wxA7rpyih3TguhcVpVnn0FSw
+

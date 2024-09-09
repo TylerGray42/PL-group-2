@@ -1,0 +1,15 @@
+[t16]
+FileName1=t16_downloadLink.json
+URL1=https://dev-boomq.pflb.ru/project-srv/project/25117/version/25323/downloadLink
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_16.xml
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+FileName2=t16_v_25323.html
+URL2=https://dev-boomq.pflb.ru/minio/boomq/boomq/teams/13/projects/25117/v_25323.yaml?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIOSFODNN7EXAMPLE/20240828/us-east-1/s3/aws4_request&X-Amz-Date=20240828T105700Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=050c99bb7b339296dbf9b350b28367bfde9e381ffe6eb9b136efccb7140e9c97
+FileName3=t16_arrow_down.6be88730f13ef3a159f4ef4438670da1.svg
+URL3=https://dev-boomq.pflb.ru/static/media/arrow_down.6be88730f13ef3a159f4ef4438670da1.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

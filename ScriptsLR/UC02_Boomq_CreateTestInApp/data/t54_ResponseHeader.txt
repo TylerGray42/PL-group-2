@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 29 Aug 2024 15:51:12 GMT
+Content-Type: text/css
+Content-Length: 189344
+Connection: keep-alive
+Last-Modified: Tue, 26 Mar 2024 08:34:39 GMT
+ETag: "6602889f-2e3a0"
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=86400;
+

@@ -1,0 +1,13 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=application/json
+StepName=Url: modelSchema
+Total=1
+FileName1=t2.json
+RequestHeaderFile=t2_RequestHeader.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1725717974552
+RawStepName=modelSchema
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1725717974306
+URL1=https://dev-boomq.pflb.ru/project-srv/modelSchema

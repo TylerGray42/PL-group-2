@@ -1,0 +1,15 @@
+[t14]
+FileName1=t14.htm
+URL1=https://copilot.microsoft.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0
+Total=3
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_12.xml
+FileName2=t14_logo.f5ae2890e77693e018920d4ad41c643c.svg
+URL2=https://dev-boomq.pflb.ru/static/media/logo.f5ae2890e77693e018920d4ad41c643c.svg
+FileName3=t14_Montserrat-Medium.d42dad28f6470e5162c2.html
+URL3=https://dev-boomq.pflb.ru/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff
+[ProtocolInfo]
+ProtocolId=QTWeb

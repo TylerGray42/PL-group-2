@@ -1,0 +1,5 @@
+"{\"queries\":[{\"refId\":\"Anno\",\"datasource\":{\"type\":\"postgres\",\"uid\":\"bc7e142d-d1d"
+"b-4a7e-9a59-f922fbe1d91b\"},\"rawSql\":\"SELECT\\n  end_date as time,\\n  container_id,\\n  te"
+"st_id\\nFROM\\n  jmeter_metrics.container\\nWHERE\\n  $__timeFilter(\\\"end_date\\\")\",\"form"
+"at\":\"table\",\"datasourceId\":13,\"intervalMs\":60000,\"maxDataPoints\":1528}],\"from\":\"17"
+"24675670611\",\"to\":\"1724679390611\"}"

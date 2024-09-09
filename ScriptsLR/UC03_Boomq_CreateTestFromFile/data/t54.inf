@@ -1,0 +1,11 @@
+[t54]
+FileName1=t54.json
+URL1=https://dev-boomq.pflb.ru/project-srv/project?testProjectName=untitled_test_19:34
+Total=1
+RequestHeaderFile=t54_RequestHeader.txt
+RequestBodyFile=t54_RequestBody.txt
+ResponseHeaderFile=t54_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_54.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

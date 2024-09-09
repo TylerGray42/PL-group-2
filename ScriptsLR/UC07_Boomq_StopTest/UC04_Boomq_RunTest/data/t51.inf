@@ -1,0 +1,13 @@
+[t51]
+FileName1=t51.json
+URL1=https://dev-boomq.pflb.ru/grafana/api/ds/query
+Total=2
+RequestHeaderFile=t51_RequestHeader.txt
+RequestBodyFile=t51_RequestBody.txt
+ResponseHeaderFile=t51_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_51.xml
+FileName2=t51_grafanaPlugin.aee8494db4c836362107.html
+URL2=https://dev-boomq.pflb.ru/grafana/public/build/grafanaPlugin.aee8494db4c836362107.js
+[ProtocolInfo]
+ProtocolId=QTWeb

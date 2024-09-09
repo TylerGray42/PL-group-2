@@ -1,0 +1,54 @@
+testType: "OWN_JMX"
+parameters: []
+slaGroupList: []
+version: "1.0.0"
+threadGroups:
+- type: "ULTIMATE"
+  id: "85064281-806f-4b4b-ae8f-88d7ce4e7cec"
+  name: "jp@gc - Ultimate Thread Group"
+  threadGroupElements:
+  - type: "TRANSACTION_CONTROLLER"
+    groupElementType: "CONTROLLER"
+    children:
+    - type: "HTTP_SAMPLER"
+      groupElementType: "SAMPLER"
+      children: []
+      id: "ee1c3445-50a6-44e2-ba88-6544bd1a4367"
+      url: "http://77.50.236.215:48997/api/kafka/message"
+      name: "HTTP Post Request"
+      method: "POST"
+      params: {}
+      headers:
+        Content-Type: "application/json"
+      body: "{\"message\":\"this is jmeter\"}"
+      timerList: []
+    - type: "HTTP_SAMPLER"
+      groupElementType: "SAMPLER"
+      children: []
+      id: "770b024b-1ce6-489a-8dd5-729dda4a5f7e"
+      url: "http://77.50.236.215:48997/api/kafka/message"
+      name: "HTTP Get Request"
+      method: "GET"
+      params: {}
+      headers:
+        Content-Type: "application/json"
+      body: ""
+      timerList: []
+    name: "Transaction Controller"
+  resourceConfiguration: null
+  displayTypeName: "jp@gc - Ultimate Thread Group"
+  steps:
+  - name: "-887548345"
+    startThreadsCount: 1
+    initDelaySec: 0
+    startupTimeSec: 5
+    holdLoadTimeSec: 3600
+    shutdownTimeSec: 5
+    changed: false
+  enabled: true
+multiplicationFactor: 1.0
+baseJmxFileLocation: "boomq/teams/13/projects/25332/imported_jmx/base_jmx_v_25852.jmx"
+httpRequestDefaults: null
+resourceConfiguration: null
+isTimersDisabled: false
+isRunThreadGroupsConsecutively: false

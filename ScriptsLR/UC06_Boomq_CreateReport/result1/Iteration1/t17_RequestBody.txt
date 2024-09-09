@@ -1,0 +1,5 @@
+"{"id":"d9f8c819-c5b3-49fa-9663-6c2df04e445d","name":"report-chart-d9f8c819-c5b3-49fa-9663-6c2d"
+"f04e445d-serie-83893823-5e68-40a7-9ce9-5dff2d3a73fe","series":[{"aggregationInterval":10,"aggr"
+"egationIntervalTimeUnit":"SECOND","id":"83893823-5e68-40a7-9ce9-5dff2d3a73fe","datasets":[{"po"
+"ints":[]}],"displayProps":{"axisUnit":"VUSER","color":"#1d1d1d","unit":"VUSER"},"testId":18696"
+","type":"VUSERS","vuserType":"ACTUAL"}],"testFilters":[{"testId":18696}]}"

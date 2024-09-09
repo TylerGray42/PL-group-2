@@ -1,0 +1,18 @@
+[t6]
+FileName2=t1_3_main.css
+RawStepEndTime=1725718272442
+RequestBodyFile=t6_RequestBody.txt
+RawStepName=identityProvider
+ContentType=application/json
+URL1=https://dev-boomq.pflb.ru/auth-srv/identityProvider
+URL2=https://dev-boomq.pflb.ru/static/css/main.64a4c65b.css
+URL3=https://dev-boomq.pflb.ru/static/js/main.cddf1824.js
+ResponseHeaderFile=t6_ResponseHeader.txt
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t6_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1725718272356
+Total=3
+StepName=Url: identityProvider
+FileName1=t6.json
+FileName3=t1_1_main.UNK

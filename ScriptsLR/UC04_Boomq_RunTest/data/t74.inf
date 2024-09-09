@@ -1,0 +1,11 @@
+[t74]
+FileName1=t74.json
+URL1=https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=AQ105
+Total=1
+RequestHeaderFile=t74_RequestHeader.txt
+RequestBodyFile=t74_RequestBody.txt
+ResponseHeaderFile=t74_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_74.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

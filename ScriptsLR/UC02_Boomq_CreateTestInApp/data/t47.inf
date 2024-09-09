@@ -1,0 +1,13 @@
+[t47]
+FileName1=t47.json
+URL1=https://dev-boomq.pflb.ru/project-srv/project
+Total=2
+RequestHeaderFile=t47_RequestHeader.txt
+RequestBodyFile=t47_RequestBody.txt
+ResponseHeaderFile=t47_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_45.xml
+FileName2=t47_check.9725c0396328bae9471b624111fc14ca.svg
+URL2=https://dev-boomq.pflb.ru/static/media/check.9725c0396328bae9471b624111fc14ca.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

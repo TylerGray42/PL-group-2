@@ -1,0 +1,65 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: user_3",
+                "infFile": "t3.inf",
+                "time": 1725717952494
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: modelSchema_2",
+                "infFile": "t4.inf",
+                "time": 1725717953188
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: identityProvider_2",
+                "infFile": "t5.inf",
+                "time": 1725717953275
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: team_2",
+                "infFile": "t7.inf",
+                "time": 1725717953528
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: teamContext_2",
+                "infFile": "t8.inf",
+                "time": 1725717953634
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: testRunner_2",
+                "infFile": "t9.inf",
+                "time": 1725717953770
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: project_2",
+                "infFile": "t10.inf",
+                "time": 1725717959225
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC02_TR01_Authorization",
+                "rawStartTime": 1725717952163,
+                "rawEndTime": 1725717953783,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05121445655822754
+            },
+            {
+                "transactionName": "UC02_TR02_New_Test",
+                "rawStartTime": 1725717958823,
+                "rawEndTime": 1725717959228,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006505250930786133
+            }
+        ]
+    }
+]

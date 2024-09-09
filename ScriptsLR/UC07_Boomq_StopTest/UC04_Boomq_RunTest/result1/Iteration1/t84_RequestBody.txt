@@ -1,0 +1,4 @@
+"{"from":"1724675670611","to":"1724679390611","queries":[{"refId":"threadgroup","datasource":{""
+"type":"postgres","uid":"bc7e142d-d1db-4a7e-9a59-f922fbe1d91b"},"rawSql":"select distinct(threa"
+"d_group_name) from jmeter_metrics.sample_metric where (-9999 in ('18686') OR test_id in ('1868"
+"6')) and thread_group_name is not null and $__timeFilter(\"timestamp\")","format":"table"}]}"

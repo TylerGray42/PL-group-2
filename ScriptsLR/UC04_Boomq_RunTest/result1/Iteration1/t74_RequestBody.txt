@@ -1,0 +1,6 @@
+"{"queries":[{"refId":"A","datasource":{"type":"postgres","uid":"bc7e142d-d1db-4a7e-9a59-f922fb"
+"e1d91b"},"rawSql":"SELECT\n  sum(count) AS \"count\"\nFROM jmeter_metrics.sample_error_metric\"
+"nWHERE\n  $__timeFilter(timestamp) AND\n  (-9999 in ('21509') OR test_id in ('21509')) AND\n  "
+"('%%all%%' in ('%%all%%') OR location IN ('%%all%%')) AND\n  not is_transaction","format":"tab"
+"le","datasourceId":13,"intervalMs":60000,"maxDataPoints":243}],"from":"1724675670611","to":"17"
+"24679390611"}"

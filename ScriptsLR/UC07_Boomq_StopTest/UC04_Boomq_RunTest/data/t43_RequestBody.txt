@@ -1,0 +1,2 @@
+"{\"events\":[{\"name\":\"frontend_plugins_preload_ms\",\"value\":0},{\"name\":\"frontend_app_i"
+"nit_ms\",\"value\":98.10000000149012}]}"

@@ -1,0 +1,3 @@
+"{"from":"1724675670611","to":"1724679390611","queries":[{"refId":"testId","datasource":{"type""
+":"postgres","uid":"bc7e142d-d1db-4a7e-9a59-f922fbe1d91b"},"rawSql":"select distinct(test_id) f"
+"rom jmeter_metrics.sample_metric where $__timeFilter(\"timestamp\")","format":"table"}]}"

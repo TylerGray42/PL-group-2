@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.19.5
+Date: Sat, 07 Sep 2024 14:04:49 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://dev-boomq.pflb.ru/
+

@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9_128.0.2739.json
+URL1=https://config.edge.skype.com/config/v1/Edge/128.0.2739.42?clientId=-3181880309565117548&agents=Edge%2CEdgeConfig%2CEdgeServices%2CEdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfre=0&osarch=x86_64&osver=10.0.22631&wu=1&devicefamily=desktop&uma=1&sessionid=483&mngd=0&installdate=1622974563&edu=0&bphint=2&soobedate=1622974562&fg=1
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+FileName2=t9_main.64a4c65b.css
+URL2=https://dev-boomq.pflb.ru/static/css/main.64a4c65b.css
+[ProtocolInfo]
+ProtocolId=QTWeb

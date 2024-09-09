@@ -1,0 +1,13 @@
+[t57]
+FileName1=t57.json
+URL1=https://dev-boomq.pflb.ru/grafana/api/ds/query?ds_type=postgres&requestId=Q101
+Total=2
+RequestHeaderFile=t57_RequestHeader.txt
+RequestBodyFile=t57_RequestBody.txt
+ResponseHeaderFile=t57_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_57.xml
+FileName2=t57_d60e3d7f0a3074f7f30c517366d6c0f1.jpg
+URL2=https://dev-boomq.pflb.ru/grafana/avatar/d60e3d7f0a3074f7f30c517366d6c0f1
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t11]
+FileName1=t11_test.json
+URL1=https://dev-boomq.pflb.ru/test-srv/test?sort=createDate,desc&size=999999&projectId=15045&state=FINISHED,FAILED,CANCELED
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_11.xml
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t11_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

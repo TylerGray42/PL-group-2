@@ -1,0 +1,11 @@
+[t55]
+FileName1=t55_search.json
+URL1=https://dev-boomq.pflb.ru/grafana/api/search?limit=5&type=dash-db&dashboardUID=ca51acaf-9803-4ad8-b507-923b152a1ca9
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_55.xml
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t55_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

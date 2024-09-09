@@ -1,0 +1,13 @@
+HTTP/1.1 201 Created
+Cache-Control: public, max-age=30
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+Location: v%7Bversion:apiVersion%7D/feeds/me/subscriptions/3faf7c90-d5ad-412c-4e62-fe776b5d1331
+Vary: Accept-Encoding
+mise-correlation-id: 08c25b34-5fa6-4ea5-8177-0c4306903147
+MS-CV: 879281777347137280.1.0
+X-AFS-Tracking: cV=879281777347137280.1.0;server=GENERAL0100001P;cloudType=Consumer;environment=Prod_EastAsia_000d;migrationStage=NotStarted
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: B946B9A5E31C4A7DABD6A18EBF935530 Ref B: HKBEDGE0607 Ref C: 2024-08-26T13:03:52Z
+Date: Mon, 26 Aug 2024 13:03:52 GMT
+

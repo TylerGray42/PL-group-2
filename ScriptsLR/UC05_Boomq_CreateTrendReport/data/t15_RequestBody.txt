@@ -1,0 +1,4 @@
+"{\"projectId\":15045,\"chartProfileList\":[],\"tableProfileList\":[{\"slaTypeList\":[{\"fromDa"
+"te\":0,\"restrictionType\":\"AVERAGE\",\"targetType\":\"TEST\",\"toDate\":30,\"type\":\"GENERA"
+"L_SLA_TYPE\"}],\"valueType\":\"VALUE\"}],\"testFilterExpressionList\":[{\"type\":\"TEST_ID_EXP"
+"RESSION\",\"testIdList\":[18389,18378]}]}"

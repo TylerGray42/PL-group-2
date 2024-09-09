@@ -1,0 +1,13 @@
+[t41]
+FileName1=t41_3820137214914388177.json
+URL1=https://edge.microsoft.com/autofillservice/core/page/-5404104625039984836/3820137214914388177
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_39.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+FileName2=t41_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChcKBm1zZWRnZRINMTI4LjAuMjczOS40MhobCAEQCBoNMTcyNDY0OTY1NDE0MSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362
+[ProtocolInfo]
+ProtocolId=QTWeb
