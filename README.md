@@ -14,3 +14,4 @@
 - `monitoring/` - конфигурация системы мониторинга для сервера с использованием Telegraf, InfluxDB и Grafana в Docker. Подробнее см. `monitoring/README.md`.
 - `Mock/` - заглушка для использования программой Boomq. Подробнее см. `Mock/README.md`.
 - `ScriptsLR/` - скрипты LoadRunner. Подробнее см. `ScriptsLR/README.md`.
+- `DB/` - SQL скрипты. Подробнее см. `DB/README.md`.
